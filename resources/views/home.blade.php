@@ -276,7 +276,7 @@
             <!--Consulting Two Start-->
             <section class="consulting-two">
                 <div class="consulting-two__bg" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                    style="background-image: url({{ asset('assets/assets/images/backgrounds/consulting-two-bg-1.jpg')}});"></div>
+                    style="background-image: url({{ asset('assets/assets/images/backgrounds/bg1.jpg')}});"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6">
@@ -348,22 +348,21 @@
                             <div class="why-choose-two__left">
                                 <div class="why-choose-two__img-1 wow slideInLeft" data-wow-delay="100ms"
                                     data-wow-duration="2500ms">
-                                    <img src="{{ asset('assets/assets/images/resources/why-choose-2-1.jpg')}}" alt="">
-                                    <div class="why-choose-two__img-2">
+                                    <img src="{{ asset('assets/assets/images/resources/philip.jpg')}}" alt="">
+                                    {{-- <div class="why-choose-two__img-2">
                                         <img src="{{ asset('assets/assets/images/resources/why-choose-2-2.jpg')}}" alt="">
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-6">
                             <div class="why-choose-two__right">
                                 <div class="section-title text-left">
-                                    <span class="section-title__tagline">WHY CHOOSE</span>
+                                    <span class="section-title__tagline">WHY CHOOSE US</span>
                                     <div class="section-title-shape">
                                         <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                                     </div>
-                                    <h2 class="section-title__title">Why Choose Our
-                                        Digital agency</h2>
+                                    <h2 class="section-title__title">WHY CHOOSE ACADEMIA O COLLEGE</h2>
                                 </div>
                                 <p class="why-choose-two__text-1">We are a digital agency that helps brands become the
                                     digital benchmark.We create brand experiences that cut through the noise and
