@@ -218,16 +218,16 @@
                         </div>
                         <div class="col-xl-6">
                             <div class="about-three__right">
-                                {{-- <div class="about-three__img">
+                                <div class="about-three__img">
                                     <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="">
                                     <div class="about-three__digital-agency">
                                         <div class="about-three__digital-agency-icon">
                                             <span class="icon-megaphone"></span>
                                         </div>
-                                        <h3 class="about-three__digital-agency-title">Best Digital
-                                            Brand Strategy Agency</h3>
+                                        {{-- <h3 class="about-three__digital-agency-title">Best Digital
+                                            Brand Strategy Agency</h3> --}}
                                     </div>
-                                </div> --}}
+                                </div>
                                 {{-- <ul class="about-three__points-list list-unstyled">
                                     <li>
                                         <div class="icon">
