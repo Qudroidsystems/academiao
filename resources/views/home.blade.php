@@ -57,7 +57,7 @@
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="main-slider-three__content">
-                                            <h2 class="main-slider-three__title">the Future begins  <br>hre</h2>
+                                            <h2 class="main-slider-three__title">the Future begins  <br>here</h2>
                                             <p class="main-slider-three__text">A future-focused High school  where academic excellence meets
                                                 <br>innovation, character and vision</p>
                                             <div class="main-slider-three__btn-box">
