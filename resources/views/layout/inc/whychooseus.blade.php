@@ -35,7 +35,7 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>A value-based and innovation-driven curriculum</p>
+                                    <p>A value-based and <br>innovation-driven curriculum</p>
                                 </div>
                             </li>
                             <li>
