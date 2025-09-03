@@ -131,7 +131,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="branding.html')}}">Junior High <br> School</a></h3>
+                                        <h3><a href="branding.html')}}">Junior High  School</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-bulb-business-idea"></span>
@@ -152,7 +152,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="digital-marketing.html')}}">Senior High <br> School</a>
+                                        <h3><a href="digital-marketing.html')}}">Senior High  School</a>
                                         </h3>
                                     </div>
                                     <div class="services-one__icon">
