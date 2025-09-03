@@ -128,7 +128,7 @@
                                         <i class="icon-email-mail"></i>
                                     </div>
                                     <div class="text">
-                                        <p><a href="mailto:agency@gmail.com">agency@gmail.com</a></p>
+                                        <p><a href="mailto:academiao.mail@gmail.com">academiao.mail@gmail.com</a></p>
                                     </div>
                                 </li>
                                 <li>
@@ -136,7 +136,7 @@
                                         <i class="icon-location"></i>
                                     </div>
                                     <div class="text">
-                                        <p>201 citycon Rd, CA 08214</p>
+                                        <p>13, Soyinka Street, Behind Fajol Hotel, Obantoko, Abeokuta, Ogun State.</p>
                                     </div>
                                 </li>
                                 <li>
@@ -144,7 +144,7 @@
                                         <i class="icon-clock"></i>
                                     </div>
                                     <div class="text">
-                                        <p>Off hours 9.00 to 7.00 [ Fri : closed ]</p>
+                                        <p>Office Hours: 7:00AM - 3:00PM (Sat - Sun: closed)</p>
                                     </div>
                                 </li>
                             </ul>
@@ -233,11 +233,11 @@
                                         </div>
                                         <div class="main-menu__call-content">
                                             <p>Make a call</p>
-                                            <h4><a href="tel:0611104044">(06) 11 10 40 44</a></h4>
+                                            <h4><a href="tel:+2347087767178">+2347087767178</a></h4>
                                         </div>
                                     </div>
                                     <div class="main-menu__btn-box">
-                                        <a href="contact.html" class="main-menu__btn">Lets Talk</a>
+                                        <a href="tel:+2347087767178" class="main-menu__btn">Lets Talk</a>
                                     </div>
                                 </div>
                             </div>
