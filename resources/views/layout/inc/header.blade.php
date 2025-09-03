@@ -153,9 +153,8 @@
                             <div class="main-heaader__top-social-box">
                                 <p class="main-heaader__top-social-title">Follow On Social</p>
                                 <div class="main-header__top-social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/academiaOfb"><i class="fab fa-facebook"></i></a>
                                     <a href="#"><i class="fab fa-linkedin"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                     <a href="#"><i class="fab fa-youtube"></i></a>
                                 </div>
