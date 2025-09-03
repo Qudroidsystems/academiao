@@ -118,7 +118,7 @@
             <section class="services-three">
                 <div class="container">
                     <div class="section-title text-center">
-                        <span class="section-title__tagline">Our Services Offer</span>
+                        <span class="section-title__tagline">Schools @ Academia O</span>
                         <div class="section-title-shape">
                             <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                         </div>
