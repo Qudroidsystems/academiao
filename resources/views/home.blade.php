@@ -118,11 +118,11 @@
             <section class="services-three">
                 <div class="container">
                     <div class="section-title text-center">
-                        <span class="section-title__tagline">Schools @ Academia O</span>
+                        <span class="section-title__tagline">Our Schools</span>
                         <div class="section-title-shape">
                             <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                         </div>
-                        <h2 class="section-title__title">Our included service</h2>
+                        <h2 class="section-title__title">Schools @ Academia O</h2>
                     </div>
                     <div class="row">
                         <!--services One single start-->
@@ -131,7 +131,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="branding.html')}}">Creative Brand <br> strategy</a></h3>
+                                        <h3><a href="branding.html')}}">Junior High <br> School</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-bulb-business-idea"></span>
@@ -152,7 +152,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="digital-marketing.html')}}">Digital solutions <br> solves Marketing</a>
+                                        <h3><a href="digital-marketing.html')}}">Senior High <br> School</a>
                                         </h3>
                                     </div>
                                     <div class="services-one__icon">
@@ -174,7 +174,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="digital-solutions.html')}}">Business Consulting <br> and solution</a></h3>
+                                        <h3><a href="digital-solutions.html')}}">Pre-versity Tutorials</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-megaphone"></span>
