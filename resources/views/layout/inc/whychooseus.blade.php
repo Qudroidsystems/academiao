@@ -22,12 +22,12 @@
                         </div>
                         <h2 class="section-title__title">WHY CHOOSE ACADEMIA O COLLEGE</h2>
                     </div>
-                    <p class="why-choose-two__text-1">We are a digital agency that helps brands become the
-                        digital benchmark.We create brand experiences that cut through the noise and
-                        meaningfully participate in people’s lives</p>
-                    <h3 class="why-choose-two__title">Quality Support</h3>
-                    <p class="why-choose-two__text-2">Quis exercit ullamo laboris nisi aliqui com dolorq. iru
-                        qui <br> nostrud exercit ullamo.</p>
+                    <p class="why-choose-two__text-1">We are excited to announce the official commencement of Academia O College — a future-focused secondary school where academic excellence meets innovation, character, and vision.
+                        At Academia O College, we are redefining education beyond the conventional classroom. Our mission is to nurture confident, creative, and critically-minded learners who are prepared to thrive in a fast-changing world.                        
+                        </p>
+                    <h3 class="why-choose-two__title">Why Choose Academia O College?
+                    </h3>
+                   
                     <div class="why-choose-two__points-box">
                         <ul class="why-choose-two__points list-unstyled">
                             <li>
@@ -35,7 +35,7 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>Quality Support</p>
+                                    <p>✅ A value-based and innovation-driven curriculum</p>
                                 </div>
                             </li>
                             <li>
@@ -43,7 +43,7 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>Team Managment</p>
+                                    <p>✅ A blend of modern teaching methods and traditional discipline                                    </p>
                                 </div>
                             </li>
                             <li>
@@ -51,7 +51,16 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>Professional Development</p>
+                                    <p>✅ Safe, inspiring learning environment</p>
+                                </div>
+                                <div class="text">
+                                    <p>✅ Committed, qualified educators </p>
+                                </div>
+                                <div class="text">
+                                    <p>✅ Technology-integrated classrooms</p>
+                                </div>
+                                <div class="text">
+                                    <p>✅ Affordable, high-quality education                                    </p>
                                 </div>
                             </li>
                         </ul>
