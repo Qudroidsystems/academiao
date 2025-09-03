@@ -309,11 +309,11 @@
                 <div class="container">
                     <div class="project-one__top">
                         <div class="section-title text-center">
-                            <span class="section-title__tagline">Our Project</span>
+                            <span class="section-title__tagline">BEFORE ACADEMIA O COLLEGE WAS ESTABLISHED</span>
                             <div class="section-title-shape">
                                 <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                             </div>
-                            <h2 class="section-title__title">Success work sotries</h2>
+                            <h2 class="section-title__title">Academia O Prevarsity Success Stories</h2>
                         </div>
                     </div>
                     <div class="project-one__bottom">
