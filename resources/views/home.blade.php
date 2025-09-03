@@ -58,13 +58,11 @@
                                     <div class="col-xl-12">
                                         <div class="main-slider-three__content">
                                             <h2 class="main-slider-three__title">the Future begins  <br>hre</h2>
-                                            <p class="main-slider-three__text">We excel at digital strategy, branding and
-                                                the development of digital <br> products such as websites, immersive
-                                                experiences </p>
+                                            <p class="main-slider-three__text">A future-focused High school  where academic excellence meets
+                                                <br>innovation, character and vision</p>
                                             <div class="main-slider-three__btn-box">
                                                 <a href="about.html')}}"
-                                                    class="thm-btn main-slider__btn main-slider-two__btn">Creative
-                                                    Solution</a>
+                                                    class="thm-btn main-slider__btn main-slider-two__btn">Learn more</a>
                                             </div>
                                         </div>
                                     </div>
@@ -72,7 +70,7 @@
                             </div>
                         </div>
     
-                        <div class="swiper-slide">
+                        {{-- <div class="swiper-slide">
                             <div class="image-layer-three"
                                 style="background-image: url({{ asset('assets/assets/images/backgrounds/bg1.jpg')}});"></div>
                             <!-- /.image-layer -->
@@ -98,7 +96,7 @@
                                 </div>
                             </div>
                         </div>
-    
+     --}}
     
                     </div>
     
