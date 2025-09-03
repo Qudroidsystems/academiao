@@ -218,7 +218,7 @@
                         </div>
                         <div class="col-xl-6">
                             <div class="about-three__right">
-                                <div class="about-three__img">
+                                {{-- <div class="about-three__img">
                                     <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="">
                                     <div class="about-three__digital-agency">
                                         <div class="about-three__digital-agency-icon">
@@ -227,8 +227,8 @@
                                         <h3 class="about-three__digital-agency-title">Best Digital
                                             Brand Strategy Agency</h3>
                                     </div>
-                                </div>
-                                <ul class="about-three__points-list list-unstyled">
+                                </div> --}}
+                                {{-- <ul class="about-three__points-list list-unstyled">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-check"></span>
@@ -260,7 +260,7 @@
                                         through the noise</p>
                                     <p class="about-three__global-solutions-text-2">and meaningfully participate in people’s
                                         lives</p>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
