@@ -10,11 +10,11 @@
                                 <span class="icon-newspaper-news"></span>
                             </div>
                             <div class="counter-one__count-box">
-                                <h3 class="odometer" data-count="11">00</h3>
-                                <span class="counter-one__letter">k</span>
+                                <h3 class="odometer" data-count="1300">00</h3>
+                                <span class="counter-one__letter">+</span>
                             </div>
                         </div>
-                        <p class="counter-one__text">Projects Completed</p>
+                        <p class="counter-one__text">Prevasity Alunmi</p>
                     </li>
                     <li>
                         <div class="counter-one__points-box">
@@ -22,11 +22,11 @@
                                 <span class="icon-flower-smile"></span>
                             </div>
                             <div class="counter-one__count-box">
-                                <h3 class="odometer" data-count="99">00</h3>
-                                <span class="counter-one__letter">%</span>
+                                <h3 class="odometer" data-count="22">00</h3>
+                                <span class="counter-one__letter">+</span>
                             </div>
                         </div>
-                        <p class="counter-one__text">Happy Customers</p>
+                        <p class="counter-one__text">College Students</p>
                     </li>
                     <li>
                         <div class="counter-one__points-box">
@@ -35,10 +35,10 @@
                             </div>
                             <div class="counter-one__count-box">
                                 <h3 class="odometer" data-count="10">00</h3>
-                                <span class="counter-one__letter">m</span>
+                                <span class="counter-one__letter">+</span>
                             </div>
                         </div>
-                        <p class="counter-one__text">3,280 avg rating</p>
+                        <p class="counter-one__text">Teachers</p>
                     </li>
                 </ul>
             </div>
