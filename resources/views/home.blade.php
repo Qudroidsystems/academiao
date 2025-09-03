@@ -198,7 +198,7 @@
                         <div class="col-xl-6">
                             <div class="about-three__left">
                                 <div class="section-title text-left">
-                                    <span class="section-title__tagline">ABOUT COMPANY</span>
+                                    <span class="section-title__tagline">ABOUT ACADEMIA O COLLEGE</span>
                                     <h2 class="section-title__title">We help people & organisations grow and succeed</h2>
                                 </div>
                                 <p class="about-three__text-1">We are a digital agency that helps brands become the digital
