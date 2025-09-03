@@ -250,13 +250,13 @@
                                         <div class="icon">
                                             <span class="icon-chart-diagram-pie"></span>
                                         </div>
-                                        <div class="text">
+                                        {{-- <div class="text">
                                             <h3>Academic Consulting & Strategy</h3>
-                                        </div>
+                                        </div> --}}
                                     </div>
                                     <div class="consulting-one__count-box">
                                         <div class="consulting-one__count">
-                                            <h4 class="odometer" data-count="1205">00</h4>
+                                            <h3 class="odometer" data-count="1205">00</h3>
                                             <span class="consulting-one__count-plus">+</span>
                                         </div>
                                         <div class="consulting-one__count-text">
