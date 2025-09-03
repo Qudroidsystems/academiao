@@ -233,7 +233,7 @@
             <!--Consulting Two Start-->
             <section class="consulting-two">
                 <div class="consulting-two__bg" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                    style="background-image: url({{ asset('assets/assets/images/backgrounds/bg1.jpg')}});"></div>
+                    style="background-image: url({{ asset('assets/assets/images/backgrounds/bg2.jpg')}});"></div>
                 <div class="container">
                     <div class="row">
                         <!-- Left Side -->
