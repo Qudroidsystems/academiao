@@ -256,7 +256,7 @@
                                     </div>
                                     <div class="consulting-one__count-box">
                                         <div class="consulting-one__count">
-                                            <h3 class="odometer" data-count="863">00</h3>
+                                            <h4 class="odometer" data-count="1205">00</h4>
                                             <span class="consulting-one__count-plus">+</span>
                                         </div>
                                         <div class="consulting-one__count-text">
