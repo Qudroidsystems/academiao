@@ -31,9 +31,9 @@
                                     <div class="col-xl-12">
                                         <div class="main-slider-three__content">
                                             <h2 class="main-slider-three__title">Welcome to Academia O College<br> where innovation meets excellence</h2>
-                                            <p class="main-slider-three__text">We are inovaton and goal driven as we
+                                            {{-- <p class="main-slider-three__text">We are inovaton and goal driven as we
                                                 the development of digital <br> deliver quality and top notch education 
-                                            </p>
+                                            </p> --}}
                                             {{-- <div class="main-slider-three__btn-box">
                                                 <a href="about.html')}}"
                                                     class="thm-btn main-slider__btn main-slider-two__btn">Creative
@@ -57,7 +57,7 @@
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="main-slider-three__content">
-                                            <h2 class="main-slider-three__title">We Create Digital <br> Benchmarks</h2>
+                                            <h2 class="main-slider-three__title">the Future begins  <br>hre</h2>
                                             <p class="main-slider-three__text">We excel at digital strategy, branding and
                                                 the development of digital <br> products such as websites, immersive
                                                 experiences </p>
