@@ -140,8 +140,8 @@
                                 <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
                                     solution</p>
                                 <div class="services-one__btn">
-                                    <a href="branding.html')}}" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a>
+                                    {{-- <a href="branding.html')}}" class="thm-btn services-three__btn">Read more<i
+                                            class="icon-right-arrow1"></i></a> --}}
                                 </div>
                             </div>
                         </div>
@@ -152,7 +152,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="digital-marketing.html')}}">Senior High  School</a>
+                                        <h3><a href="#">Senior High  School</a>
                                         </h3>
                                     </div>
                                     <div class="services-one__icon">
@@ -162,8 +162,8 @@
                                 <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
                                     solution</p>
                                 <div class="services-one__btn">
-                                    <a href="digital-marketing.html')}}" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a>
+                                    {{-- <a href="#" class="thm-btn services-three__btn">Read more<i
+                                            class="icon-right-arrow1"></i></a> --}}
                                 </div>
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="digital-solutions.html')}}">Pre-versity Tutorials</a></h3>
+                                        <h3><a href="#">Pre-versity Tutorials</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-megaphone"></span>
@@ -183,8 +183,8 @@
                                 <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
                                     solution</p>
                                 <div class="services-one__btn">
-                                    <a href="digital-solutions.html')}}" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a>
+                                    {{-- <a href="digital-solutions.html')}}" class="thm-btn services-three__btn">Read more<i
+                                            class="icon-right-arrow1"></i></a> --}}
                                 </div>
                             </div>
                         </div>
