@@ -172,7 +172,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="#">Pre-versity</a></h3>
+                                        <h3><a href="#">Prevasity</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-megaphone"></span>
