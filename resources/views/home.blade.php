@@ -219,7 +219,7 @@
                         <div class="col-xl-6">
                             <div class="about-three__right">
                                 <div class="about-three__img">
-                                    <img src="{{ asset('assets/assets/images/resources/logo.png')}}" alt="">
+                                    <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="">
                                     <div class="about-three__digital-agency">
                                         <div class="about-three__digital-agency-icon">
                                             <span class="icon-megaphone"></span>
