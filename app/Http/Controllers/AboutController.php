@@ -5,15 +5,15 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
-class HomeController extends Controller
+class AboutController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        $pageTitle = 'Home';
-        return view('home')->with('pageTitle',$pageTitle);
+        $pageTitle = 'About Us';
+        return view('about')->with('pageTitle',$pageTitle);
         
     }
 

@@ -340,7 +340,73 @@
             </section>
             <!--Consulting Two End-->
     
-            @include('layout.inc.whychooseus')
+            <!--Why Choose Two Start-->
+            <section class="why-choose-two">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6">
+                            <div class="why-choose-two__left">
+                                <div class="why-choose-two__img-1 wow slideInLeft" data-wow-delay="100ms"
+                                    data-wow-duration="2500ms">
+                                    <img src="{{ asset('assets/assets/images/resources/philip.jpg')}}" alt="">
+                                    {{-- <div class="why-choose-two__img-2">
+                                        <img src="{{ asset('assets/assets/images/resources/why-choose-2-2.jpg')}}" alt="">
+                                    </div> --}}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="why-choose-two__right">
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">WHY CHOOSE US</span>
+                                    <div class="section-title-shape">
+                                        <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
+                                    </div>
+                                    <h2 class="section-title__title">WHY CHOOSE ACADEMIA O COLLEGE</h2>
+                                </div>
+                                <p class="why-choose-two__text-1">We are a digital agency that helps brands become the
+                                    digital benchmark.We create brand experiences that cut through the noise and
+                                    meaningfully participate in people’s lives</p>
+                                <h3 class="why-choose-two__title">Quality Support</h3>
+                                <p class="why-choose-two__text-2">Quis exercit ullamo laboris nisi aliqui com dolorq. iru
+                                    qui <br> nostrud exercit ullamo.</p>
+                                <div class="why-choose-two__points-box">
+                                    <ul class="why-choose-two__points list-unstyled">
+                                        <li>
+                                            <div class="icon">
+                                                <span class="icon-check"></span>
+                                            </div>
+                                            <div class="text">
+                                                <p>Quality Support</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="icon">
+                                                <span class="icon-check"></span>
+                                            </div>
+                                            <div class="text">
+                                                <p>Team Managment</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="icon">
+                                                <span class="icon-check"></span>
+                                            </div>
+                                            <div class="text">
+                                                <p>Professional Development</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <div class="why-choose-two__icon-box">
+                                        <span class="icon-business-management-presentation"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Why Choose Two End-->
     
             <!--Project One start-->
             <section class="project-three">
@@ -613,10 +679,419 @@
             </section>
             <!--Project Three End-->
     
-           @include('layout.inc.counters')
+            <!--Counter Two Start-->
+            <section class="counter-two">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <ul class="counter-one__points list-unstyled">
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-newspaper-news"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="11">00</h3>
+                                            <span class="counter-one__letter">k</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">Projects Completed</p>
+                                </li>
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-flower-smile"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="99">00</h3>
+                                            <span class="counter-one__letter">%</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">Happy Customers</p>
+                                </li>
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-rating"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="10">00</h3>
+                                            <span class="counter-one__letter">m</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">3,280 avg rating</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Counter Two End-->
     
-           @include('layout.inc.testimonials')
+            <!--Testimonial Two Start-->
+            <div class="testimonial-two">
+                <div class="container">
+                    <div class="testimonial-two__top">
+                        <div class="row">
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="testimonial-two__left">
+                                    <div class="section-title text-left">
+                                        <span class="section-title__tagline">Testimonial</span>
+                                        <div class="section-title-shape">
+                                            <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
+                                        </div>
+                                        <h2 class="section-title__title">Sotries from client.</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-6">
+                                <div class="testimonial-two__right">
+                                    <p class="testimonial-two__right-text">There are many variations of passages of Lorem
+                                        Ipsum
+                                        available, but the majority have suffered alteration Lorem Ipsum as their default
+                                        model
+                                        text
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-two__bottom">
+                        <div class="testimonial-two__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+                            "loop": true,
+                            "autoplay": false,
+                            "margin": 30,
+                            "nav": false,
+                            "dots": false,
+                            "smartSpeed": 500,
+                            "autoplayTimeout": 10000,
+                            "navText": ["<span class=\"icon-left-arrow-1\"></span>","<span class=\"icon-right-arrow-1\"></span>"],
+                            "responsive": {
+                                "0": {
+                                    "items": 1
+                                },
+                                "768": {
+                                    "items": 1
+                                },
+                                "992": {
+                                    "items": 2
+                                },
+                                "1200": {
+                                    "items": 2
+                                }
+                            }
+                        }'>
+                            <!--Testimonial Two Single Start-->
+                            <div class="item">
+                                <div class="testimonial-two__single">
+                                    <div class="testimonial-two__inner">
+                                        <div class="testimonial-two__client-img-box">
+                                            <div class="testimonial-two__client-img">
+                                                <img src="{{ asset('assets/assets/images/testimonial/testimonial-2-1.jpg')}}" alt="">
+                                            </div>
+                                            <div class="testimonial-two__icon">
+                                                <span class="icon-quote"></span>
+                                            </div>
+                                        </div>
+                                        <div class="testimonial-two__client-info">
+                                            <div class="testimonial-two__rating">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </div>
+                                            <h3 class="testimonial-two__client-name">John wiliam tom</h3>
+                                            <p>Brand Strategy Data Analytics</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-two__text">“We’re positively impatient and constantly searching
+                                        for ways to inspire and challenge there are many variations of passages of Lorem
+                                        Ipsum available, but the majority have suffered alteration”</p>
+                                </div>
+                            </div>
+                            <!--Testimonial Two Single End-->
+                            <!--Testimonial Two Single Start-->
+                            <div class="item">
+                                <div class="testimonial-two__single">
+                                    <div class="testimonial-two__inner">
+                                        <div class="testimonial-two__client-img-box">
+                                            <div class="testimonial-two__client-img">
+                                                <img src="{{ asset('assets/assets/images/testimonial/testimonial-2-2.jpg')}}" alt="">
+                                            </div>
+                                            <div class="testimonial-two__icon">
+                                                <span class="icon-quote"></span>
+                                            </div>
+                                        </div>
+                                        <div class="testimonial-two__client-info">
+                                            <div class="testimonial-two__rating">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </div>
+                                            <h3 class="testimonial-two__client-name">Tony kiaam ron</h3>
+                                            <p>Brand architecture</p>
+                                        </div>
+                                    </div>
+                                    <p class="testimonial-two__text">“We’re positively impatient and constantly searching
+                                        for ways to inspire and challenge there are many variations of passages of Lorem
+                                        Ipsum available, but the majority have suffered alteration”</p>
+                                </div>
+                            </div>
+                            <!--Testimonial Two Single End-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Testimonial Two End-->
     
-           @include('layout.inc.team')
+            <!--Team One Start-->
+            <section class="team-one">
+                <div class="container">
+                    <div class="section-title text-center">
+                        <span class="section-title__tagline">Our Best Expert</span>
+                        <div class="section-title-shape">
+                            <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
+                        </div>
+                        <h2 class="section-title__title">Meet the team members</h2>
+                    </div>
+                    <div class="row">
+                        <!--Team One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                            <div class="team-one__single">
+                                <div class="team-one__inner">
+                                    <div class="team-one__shape-1 float-bob-y"></div>
+                                    <div class="team-one__img">
+                                        <img src="{{ asset('assets/assets/images/team/team-1-1.jpg')}}" alt="">
+                                    </div>
+                                    <div class="team-one__content">
+                                        <div class="team-one__rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <h3 class="team-one__name"><a href="team-details.html')}}">Jack Da Conaz</a></h3>
+                                        <p class="team-one__sub-title">Business Consulting expert</p>
+                                        <div class="team-one__social">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Team One Single End-->
+                        <!--Team One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="team-one__single">
+                                <div class="team-one__inner">
+                                    <div class="team-one__shape-1 float-bob-y"></div>
+                                    <div class="team-one__img">
+                                        <img src="{{ asset('assets/assets/images/team/team-1-2.jpg')}}" alt="">
+                                    </div>
+                                    <div class="team-one__content">
+                                        <div class="team-one__rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <h3 class="team-one__name"><a href="team-details.html')}}">Chopa Kendalo</a></h3>
+                                        <p class="team-one__sub-title">Business Consulting expert</p>
+                                        <div class="team-one__social">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Team One Single End-->
+                        <!--Team One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="team-one__single">
+                                <div class="team-one__inner">
+                                    <div class="team-one__shape-1 float-bob-y"></div>
+                                    <div class="team-one__img">
+                                        <img src="{{ asset('assets/assets/images/team/team-1-3.jpg')}}" alt="">
+                                    </div>
+                                    <div class="team-one__content">
+                                        <div class="team-one__rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <h3 class="team-one__name"><a href="team-details.html')}}">Goplin ka chu</a></h3>
+                                        <p class="team-one__sub-title">Business Consulting expert</p>
+                                        <div class="team-one__social">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Team One Single End-->
+                    </div>
+                </div>
+            </section>
+            <!--Team One End-->
     
+            <!--Blog One Start-->
+            <section class="blog-one">
+                <div class="container">
+                    <div class="blog-one__top">
+                        <div class="row">
+                            <div class="col-xl-8 col-lg-8">
+                                <div class="blog-one__top-left">
+                                    <div class="section-title text-left">
+                                        <span class="section-title__tagline">Our Blog Post</span>
+                                        <div class="section-title-shape">
+                                            <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
+                                        </div>
+                                        <h2 class="section-title__title">Latest post from the blog</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4">
+                                <div class="blog-one__top-right">
+                                    <div class="blog-one__btn-box">
+                                        <a href="blog.html')}}" class="thm-btn">More News<i class="icon-right-arrow1"></i></a>
+                                        <p>Our weekly post See more grounds</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <!--Blog One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img-box">
+                                    <div class="blog-one__img">
+                                        <img src="{{ asset('assets/assets/images/blog/blog-1-1.jpg')}}" alt="">
+                                        <a href="blog-details.html')}}">
+                                            <span class="news-one__plus"></span>
+                                        </a>
+                                    </div>
+                                    <div class="blog-one__date">
+                                        <p>12</p>
+                                        <span>Aug</span>
+                                    </div>
+                                </div>
+                                <div class="blog-one__content">
+                                    <ul class="blog-one__meta list-unstyled">
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-user-1"></i>By Admin</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-folder-1"></i>Marketing</a>
+                                        </li>
+                                    </ul>
+                                    <h3 class="blog-one__title"><a href="blog-details.html')}}">What a Digital Marketing Agency
+                                            Should Do</a>
+                                    </h3>
+                                    <div class="blog-one__bottom">
+                                        <div class="blog-one__btn">
+                                            <a href="blog-details.html')}}">Read more<i class="icon-right-arrow1"></i></a>
+                                        </div>
+                                        <div class="blog-one__comment">
+                                            <a href="blog-details.html')}}"><i class="icon-image-comment"></i>10 Comment</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img-box">
+                                    <div class="blog-one__img">
+                                        <img src="{{ asset('assets/assets/images/blog/blog-1-2.jpg')}}" alt="">
+                                        <a href="blog-details.html')}}">
+                                            <span class="news-one__plus"></span>
+                                        </a>
+                                    </div>
+                                    <div class="blog-one__date">
+                                        <p>12</p>
+                                        <span>Aug</span>
+                                    </div>
+                                </div>
+                                <div class="blog-one__content">
+                                    <ul class="blog-one__meta list-unstyled">
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-user-1"></i>By Admin</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-folder-1"></i>Marketing</a>
+                                        </li>
+                                    </ul>
+                                    <h3 class="blog-one__title"><a href="blog-details.html')}}">Curabitur id nisi at nulla
+                                            volutpat vulputate</a>
+                                    </h3>
+                                    <div class="blog-one__bottom">
+                                        <div class="blog-one__btn">
+                                            <a href="blog-details.html')}}">Read more<i class="icon-right-arrow1"></i></a>
+                                        </div>
+                                        <div class="blog-one__comment">
+                                            <a href="blog-details.html')}}"><i class="icon-image-comment"></i>10 Comment</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                        <!--Blog One Single Start-->
+                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                            <div class="blog-one__single">
+                                <div class="blog-one__img-box">
+                                    <div class="blog-one__img">
+                                        <img src="{{ asset('assets/assets/images/blog/blog-1-3.jpg')}}" alt="">
+                                        <a href="blog-details.html')}}">
+                                            <span class="news-one__plus"></span>
+                                        </a>
+                                    </div>
+                                    <div class="blog-one__date">
+                                        <p>12</p>
+                                        <span>Aug</span>
+                                    </div>
+                                </div>
+                                <div class="blog-one__content">
+                                    <ul class="blog-one__meta list-unstyled">
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-user-1"></i>By Admin</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-details.html')}}"><i class="icon-folder-1"></i>Marketing</a>
+                                        </li>
+                                    </ul>
+                                    <h3 class="blog-one__title"><a href="#">Fusce non quam nec nibh condimentum iaculis</a>
+                                    </h3>
+                                    <div class="blog-one__bottom">
+                                        <div class="blog-one__btn">
+                                            <a href="blog-details.html')}}">Read more<i class="icon-right-arrow1"></i></a>
+                                        </div>
+                                        <div class="blog-one__comment">
+                                            <a href="blog-details.html')}}"><i class="icon-image-comment"></i>10 Comment</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Blog One Single End-->
+                    </div>
+                </div>
+            </section>
+            <!--Blog One End-->
 @endsection

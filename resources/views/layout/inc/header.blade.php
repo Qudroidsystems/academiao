@@ -2,11 +2,11 @@
 <html lang="en">
 
 
-<!-- Mirrored from themazine.com/mr/bcorz-html/index3.html')}} by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 22:22:21 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> Home || Academia O</title>
+    <title> {{ $pageTitle }} || Academia O</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/assets/images/favicons/apple-touch-icon.png')}}" />
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/assets/images/favicons/favicon-32x32.png')}}" />
@@ -177,12 +177,12 @@
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
                                     <li class="dropdown current">
-                                        <a href="index.html">Home </a>
+                                        <a href="{{ route('home') }}">Home </a>
                                         
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Services</a>
-                                        <ul>
+                                        <a href="{{ route('services') }}">Services</a>
+                                        {{-- <ul>
                                             <li><a href="services.html">Services</a></li>
                                             <li><a href="product-design.html">Product Design</a></li>
                                             <li><a href="digital-marketing.html">Digital Marketing</a></li>
@@ -190,39 +190,39 @@
                                             <li><a href="branding.html">Branding</a></li>
                                             <li><a href="digital-solutions.html">Digital Solutions</a></li>
                                             <li><a href="user-research.html">User Research</a></li>
-                                        </ul>
+                                        </ul> --}}
                                     </li>
-                                    <li class="dropdown">
+                                    {{-- <li class="dropdown">
                                         <a href="#">Projects</a>
                                         <ul>
                                             <li><a href="project-v-1.html">Project V-1</a></li>
                                             <li><a href="project-v-2.html">Project V-2</a></li>
                                             <li><a href="project-details.html">Project Details</a></li>
                                         </ul>
-                                    </li>
+                                    </li> --}}
                                     <li>
-                                        <a href="about.html">About Us</a>
+                                        <a href="{{ route('about') }}">About Us</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Page</a>
-                                        <ul>
+                                        <a href="{{ route('faq') }}">FAQ</a>
+                                        {{-- <ul>
                                             <li><a href="team.html">Team</a></li>
                                             <li><a href="team-details.html">Team Details</a></li>
                                             <li><a href="faq.html">FAQs</a></li>
                                             <li><a href="404.html">404 Error</a></li>
-                                        </ul>
+                                        </ul> --}}
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Blog</a>
-                                        <ul>
+                                        <a href="{{ route('team') }}">Our Team</a>
+                                        {{-- <ul>
                                             <li><a href="blog.html">Blog</a></li>
                                             <li><a href="blog-list.html">Blog List</a></li>
                                             <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
+                                        </ul> --}}
                                     </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
-                                    </li>
+                                    {{-- <li>
+                                        <a href="{{ route('contact') }}">Contact</a>
+                                    </li> --}}
                                 </ul>
                             </div>
                             <div class="main-menu__main-menu-box-right">
