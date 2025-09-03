@@ -35,7 +35,7 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>✅ A value-based and innovation-driven curriculum</p>
+                                    <p>A value-based and innovation-driven curriculum</p>
                                 </div>
                             </li>
                             <li>
@@ -43,7 +43,7 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>✅ A blend of modern teaching methods and traditional discipline                                    </p>
+                                    <p>A blend of modern teaching methods and traditional discipline </p>                                   </p>
                                 </div>
                             </li>
                             <li>
@@ -51,16 +51,16 @@
                                     <span class="icon-check"></span>
                                 </div>
                                 <div class="text">
-                                    <p>✅ Safe, inspiring learning environment</p>
+                                    <p>Safe, inspiring learning environment</p>
                                 </div>
                                 <div class="text">
-                                    <p>✅ Committed, qualified educators </p>
+                                    <p>Committed, qualified educators </p>
                                 </div>
                                 <div class="text">
-                                    <p>✅ Technology-integrated classrooms</p>
+                                    <p>Technology-integrated classrooms</p>
                                 </div>
                                 <div class="text">
-                                    <p>✅ Affordable, high-quality education                                    </p>
+                                    <p>Affordable, high-quality education</p>
                                 </div>
                             </li>
                         </ul>
