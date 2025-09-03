@@ -209,7 +209,7 @@
                                         <span class="icon-bulb-business-idea"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>Excellence, Integrity & Innovation in Education</h3>
+                                        <h3>Innovatio et Excellentia</h3>
                                     </div>
                                 </div>
                                 <p class="about-three__text-2">
