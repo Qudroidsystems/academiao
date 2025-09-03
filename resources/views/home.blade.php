@@ -236,19 +236,22 @@
                     style="background-image: url({{ asset('assets/assets/images/backgrounds/bg1.jpg')}});"></div>
                 <div class="container">
                     <div class="row">
+                        <!-- Left Side -->
                         <div class="col-xl-6 col-lg-6">
                             <div class="consulting-one__left">
-                                <h3 class="consulting-one__title">We breathe marketing and exhale digital.</h3>
-                                <p class="consulting-one__text">We breathe marketing and exhale digital adi piscing elit.
-                                    sed do eiusmod tempor labore et dolore magna aliqua business. Duis aute irure dolor in
-                                    reprehenderit in voluptate velit esse cillum </p>
+                                <h3 class="consulting-one__title">Guiding Students. Building Futures.</h3>
+                                <p class="consulting-one__text">
+                                    At Academia O College, we believe that every student deserves the right guidance to reach their full potential. 
+                                    Our academic consultation services help parents and students make informed decisions about courses, career paths, 
+                                    and personal development. With a student-first approach, we nurture talents and prepare our learners to excel in a global world.
+                                </p>
                                 <div class="consulting-one__bottom">
                                     <div class="consulting-one__Strategy">
                                         <div class="icon">
                                             <span class="icon-chart-diagram-pie"></span>
                                         </div>
                                         <div class="text">
-                                            <h3>Consulting & Strategy</h3>
+                                            <h3>Academic Consulting & Strategy</h3>
                                         </div>
                                     </div>
                                     <div class="consulting-one__count-box">
@@ -257,19 +260,20 @@
                                             <span class="consulting-one__count-plus">+</span>
                                         </div>
                                         <div class="consulting-one__count-text">
-                                            <p>Our Worlds <br> Clients</p>
+                                            <p>Students & Parents <br> Guided</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <!-- Right Side -->
                         <div class="col-xl-6 col-lg-6">
                             <div class="consulting-one__right">
                                 <div class="consulting-one__right-form-box wow slideInRight" data-wow-delay="100ms"
                                     data-wow-duration="2500ms">
                                     <p class="consulting-one__form-sub-title">Get More Updates</p>
-                                    <h3 class="consulting-one__form-title">Free Consultation</h3>
-                                    <form action="https://themazine.com/mr/bcorz-html/index.html')}}" method="post" class="consulting-one__right-form">
+                                    <h3 class="consulting-one__form-title">Book a Free Consultation</h3>
+                                    <form action="#" method="post" class="consulting-one__right-form">
                                         <div class="consulting-one__input-box">
                                             <input type="text" placeholder="Name" name="Name">
                                         </div>
@@ -281,13 +285,13 @@
                                         </div>
                                         <div class="consulting-one__input-box">
                                             <select class="selectpicker" aria-label="Default select example">
-                                                <option selected>Subject</option>
-                                                <option value="1">Subject 1</option>
-                                                <option value="2">Subject 2</option>
-                                                <option value="3">Subject 3</option>
+                                                <option selected>Area of Interest</option>
+                                                <option value="1">Admission Guidance</option>
+                                                <option value="2">Career Counselling</option>
+                                                <option value="3">Course Selection</option>
                                             </select>
                                         </div>
-                                        <button type="submit" class="thm-btn consulting-one__btn">Consultation</button>
+                                        <button type="submit" class="thm-btn consulting-one__btn">Request Consultation</button>
                                     </form>
                                 </div>
                             </div>
@@ -295,6 +299,7 @@
                     </div>
                 </div>
             </section>
+            
             <!--Consulting Two End-->
     
             @include('layout.inc.whychooseus')
