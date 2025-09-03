@@ -199,73 +199,35 @@
                             <div class="about-three__left">
                                 <div class="section-title text-left">
                                     <span class="section-title__tagline">ABOUT ACADEMIA O COLLEGE</span>
-                                    <h2 class="section-title__title">We help people & organisations grow and succeed</h2>
+                                    <h2 class="section-title__title">Shaping minds today for a brighter tomorrow</h2>
                                 </div>
-                                <p class="about-three__text-1">We are a digital agency that helps brands become the digital
-                                    benchmark.We create brand experiences that cut through the noise and meaningfully
-                                    participate in people’s lives</p>
+                                <p class="about-three__text-1">
+                                    At Academia O College, we believe education is more than acquiring knowledge — it is about nurturing character, inspiring innovation, and preparing future leaders. Our commitment is to provide quality learning experiences that empower students to excel academically and socially. 
+                                </p>
                                 <div class="about-three__creativity">
                                     <div class="icon">
                                         <span class="icon-bulb-business-idea"></span>
                                     </div>
                                     <div class="text">
-                                        <h3>We combine strategy with <br> creativity to build brand</h3>
+                                        <h3>Excellence, Integrity & Innovation in Education</h3>
                                     </div>
                                 </div>
-                                <p class="about-three__text-2">We are a global team of creative problem solvers designers
-                                    entrepreneurs, enthusiastic cyclists, developers, bartenders,</p>
+                                <p class="about-three__text-2">
+                                    With dedicated teachers, modern facilities, and a supportive community, Academia O College offers a balanced approach to education — blending academics, creativity, and personal development. We prepare our students not just for exams, but for life.
+                                </p>
                             </div>
                         </div>
                         <div class="col-xl-6">
                             <div class="about-three__right">
                                 <div class="about-three__img">
-                                    <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="">
-                                    <div class="about-three__digital-agency">
-                                        {{-- <div class="about-three__digital-agency-icon">
-                                            <span class="icon-megaphone"></span>
-                                        </div> --}}
-                                        {{-- <h3 class="about-three__digital-agency-title">Best Digital
-                                            Brand Strategy Agency</h3> --}}
-                                    </div>
+                                    <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="Academia O College Logo">
                                 </div>
-                                {{-- <ul class="about-three__points-list list-unstyled">
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-check"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>Recruiting Services</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-check"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>Digital Solutions solves your marketing</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-check"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>Professional Development</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                                <div class="about-three__global-solutions">
-                                    <h3 class="about-three__global-solutions-title">We are a global workforce solutions</h3>
-                                    <p class="about-three__global-solutions-text-1">We create brand experiences that cut
-                                        through the noise</p>
-                                    <p class="about-three__global-solutions-text-2">and meaningfully participate in people’s
-                                        lives</p>
-                                </div> --}}
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
+            
             <!--About Three End-->
     
             <!--Consulting Two Start-->
