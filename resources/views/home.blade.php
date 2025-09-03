@@ -221,9 +221,9 @@
                                 <div class="about-three__img">
                                     <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="">
                                     <div class="about-three__digital-agency">
-                                        <div class="about-three__digital-agency-icon">
+                                        {{-- <div class="about-three__digital-agency-icon">
                                             <span class="icon-megaphone"></span>
-                                        </div>
+                                        </div> --}}
                                         {{-- <h3 class="about-three__digital-agency-title">Best Digital
                                             Brand Strategy Agency</h3> --}}
                                     </div>
