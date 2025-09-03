@@ -137,8 +137,7 @@
                                         <span class="icon-bulb-business-idea"></span>
                                     </div>
                                 </div>
-                                <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
-                                    solution</p>
+                                <p class="services-one__text">Redefining education being conventional classroom Year 7 to Year 9 students.</p>
                                 <div class="services-one__btn">
                                     {{-- <a href="branding.html')}}" class="thm-btn services-three__btn">Read more<i
                                             class="icon-right-arrow1"></i></a> --}}
@@ -159,8 +158,7 @@
                                         <span class="icon-business-management-target"></span>
                                     </div>
                                 </div>
-                                <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
-                                    solution</p>
+                                <p class="services-one__text">Using technology and modern tools with consistent science practicals to prepare Year 10 to Year 12 students for the task ahead.</p>
                                 <div class="services-one__btn">
                                     {{-- <a href="#" class="thm-btn services-three__btn">Read more<i
                                             class="icon-right-arrow1"></i></a> --}}
@@ -174,14 +172,13 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="#">Pre-versity Tutorials</a></h3>
+                                        <h3><a href="#">Pre-versity</a></h3>
                                     </div>
                                     <div class="services-one__icon">
                                         <span class="icon-megaphone"></span>
                                     </div>
                                 </div>
-                                <p class="services-one__text">Lorem Ipsum generators on the Internet tend to repeat agency
-                                    solution</p>
+                                <p class="services-one__text">Preparing high school leavers for admission based examinations towards a brighter future in higher institution.</p>
                                 <div class="services-one__btn">
                                     {{-- <a href="digital-solutions.html')}}" class="thm-btn services-three__btn">Read more<i
                                             class="icon-right-arrow1"></i></a> --}}
