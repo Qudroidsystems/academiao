@@ -25,9 +25,9 @@
                     <p class="why-choose-two__text-1">We are excited to announce the official commencement of Academia O College — a future-focused secondary school where academic excellence meets innovation, character, and vision.
                         At Academia O College, we are redefining education beyond the conventional classroom. Our mission is to nurture confident, creative, and critically-minded learners who are prepared to thrive in a fast-changing world.                        
                         </p>
-                    <h3 class="why-choose-two__title">Why Choose Academia O College?
+                    {{-- <h3 class="why-choose-two__title">Why Choose Academia O College?
                     </h3>
-                   
+                    --}}
                     {{-- <div class="why-choose-two__points-box">
                         <ul class="why-choose-two__points list-unstyled">
                             <li>
