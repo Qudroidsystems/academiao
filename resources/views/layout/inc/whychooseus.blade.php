@@ -22,10 +22,10 @@
                         </div>
                         <h2 class="section-title__title">Introducing the School</h2>
                     </div>
-                    <p class="why-choose-two__text-1">We are excited to announce the official commencement of Academia O College — a future-focused secondary school where academic excellence meets innovation, character, and vision.
+                    <p>We are excited to announce the official commencement of Academia O College — a future-focused secondary school where academic excellence meets innovation, character, and vision.
                         At Academia O College, we are redefining education beyond the conventional classroom. Our mission is to nurture confident, creative, and critically-minded learners who are prepared to thrive in a fast-changing world.                        
                         
-                        <p class="why-choose-two__text-1">Whether day or boarding, your child deserves more than the average. They deserve a place where their dreams are not only heard — but nurtured. That place is Academia O College.
+                        <p>Whether day or boarding, your child deserves more than the average. They deserve a place where their dreams are not only heard — but nurtured. That place is Academia O College.
                         Academia O College… the future begins here!</p>
                     </p>
                     {{-- <h3 class="why-choose-two__title">Why Choose Academia O College?
