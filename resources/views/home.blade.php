@@ -122,7 +122,7 @@
                         <div class="section-title-shape">
                             <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                         </div>
-                        <h2 class="section-title__title">Schools @ Academia O</h2>
+                        <h2 class="section-title__title">Academia O Group of Schools</h2>
                     </div>
                     <div class="row">
                         <!--services One single start-->
