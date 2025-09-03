@@ -59,7 +59,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                {{-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                     <div class="footer-widget-two__latest-post">
                         <h4 class="footer-widget-two__title">Latest Post</h4>
                         <ul class="footer-widget-two__latest-post-list list-unstyled">
@@ -92,7 +92,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -102,7 +102,7 @@
                 <div class="col-xl-12">
                     <div class="site-footer-two__bottom-inner">
                         <div class="site-footer-two__bottom-text">
-                            <p>Copyright© 2022 All Rights Reserved</p>
+                            <p>Copyright© 2025 All Rights Reserved</p> <a href="www.qudroid.co">Developed by Qudroid </a>
                         </div>
                     </div>
                 </div>
