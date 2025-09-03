@@ -34,7 +34,7 @@
                                 <span class="icon-rating"></span>
                             </div>
                             <div class="counter-one__count-box">
-                                <h3 class="odometer" data-count="10">00</h3>
+                                <h3 class="odometer" data-count="15">00</h3>
                                 <span class="counter-one__letter">+</span>
                             </div>
                         </div>
