@@ -180,6 +180,60 @@
                                 </div>
                             </div>
                             <!--Testimonial One Single End-->
+
+                            <!--Testimonial One Single Start-->
+                            <div class="item">
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-img-box">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="{{ asset('assets/assets/images/testimonial/t5.jpg') }}" alt="">
+                                        </div>
+                                        <div class="testimonial-one__icon">
+                                            <span class="icon-quote"></span>
+                                        </div>
+                                    </div>
+                                    <div class="testimonial-one__client-info-box">
+                                        <p class="testimonial-one__text">“As an alumnus of Academia O, I can confidently say that my time there 
+                                            was one of the most
+                                             transformative experiences of my life. When I first joined,
+                                             I was unsure of myself and uncertain about the path ahead.
+                                              What I found at Academia O was not just an institution, 
+                                              but a community that believed in me, supported me, and helped me grow both academically and personally.
+
+                                                The faculty at Academia O played a tremendous role in shaping my journey. 
+                                                They were more than instructors, 
+                                                they were mentors who took the time to
+                                                understand my strengths, encourage my potential, 
+                                                and guide me through challenges with patience and care.
+                                                Their dedication made me feel seen as an individual,
+                                                not just another student in the classroom.
+
+                                                Beyond academics, the environment at the college fostered
+                                                confidence, discipline, and resilience. The modern resources,
+                                                engaging programs, and vibrant campus atmosphere created countless 
+                                                opportunities for me to learn and grow in ways that extended far beyond textbooks.
+
+                                                Looking back, I realize that Academia O gave me more than support,
+                                                it gave me the tools to face the world with courage and ambition.
+                                                It is a place where students are nurtured, inspired, and prepared
+                                                for the future. For anyone seeking not only quality education
+                                                    but also genuine support and personal growth, I wholeheartedly 
+                                                    recommend Academia O College. ”</p>
+                                        <div class="testimonial-one__client-info">
+                                            <div class="testimonial-one__rating">
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                            </div>
+                                            <h3 class="testimonial-one__client-name">Masturah</h3>
+                                            <p>Ohio State University, USA.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Testimonial One Single End-->
                         </div>
                     </div>
                 </div>
