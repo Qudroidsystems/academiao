@@ -14,7 +14,7 @@
                                 <span class="counter-one__letter">+</span>
                             </div>
                         </div>
-                        <p class="counter-one__text">Prevasity Alunmi</p>
+                        <p class="counter-one__text">Prevarsity Alumni</p>
                     </li>
                     <li>
                         <div class="counter-one__points-box">

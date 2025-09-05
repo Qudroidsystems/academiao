@@ -137,7 +137,7 @@
                                         <span class="icon-bulb-business-idea"></span>
                                     </div>
                                 </div>
-                                <p class="services-one__text">Redefining education being conventional classroom Year 7 to Year 9 students.</p>
+                                <p class="services-one__text">Redefining the goal of education from the conventional, nurturing students of Year 7 to Year 9.</p>
                                 <div class="services-one__btn">
                                     {{-- <a href="branding.html')}}" class="thm-btn services-three__btn">Read more<i
                                             class="icon-right-arrow1"></i></a> --}}
