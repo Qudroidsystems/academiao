@@ -345,17 +345,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-1.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/1.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Social
-                                                    strategy</a></h3>
+                                            <p class="project-one__sub-title">Cultural day celebration organized by UTME students.</p>
+                                           
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -364,17 +361,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-2.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/2.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Brand strategy</a>
-                                            </h3>
+                                            <p class="project-one__sub-title">Cultural day celebration organized by UTME students</p>
+                                          
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -383,17 +377,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-3.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/3.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Digital
-                                                    marketing</a></h3>
+                                            <p class="project-one__sub-title"></p>
+                                          
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -402,17 +393,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-1.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/4.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Social
-                                                    strategy</a></h3>
+                                            <p class="project-one__sub-title">A novelty match during the Prevarsity anniversary programme.</p>
+                                           
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -421,17 +409,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-2.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/5.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Brand strategy</a>
-                                            </h3>
+                                            <p class="project-one__sub-title">UTME students having a relaxation break.</p>
+                                           
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>
@@ -440,17 +425,14 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-3.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/6.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Digital
-                                                    marketing</a></h3>
+                                            <p class="project-one__sub-title"></p>
+    
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -459,116 +441,18 @@
                             <div class="item">
                                 <div class="project-one__single">
                                     <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-1.jpg')}}" alt="">
+                                        <img src="{{ asset('assets/assets/images/project/7.jpg')}}" alt="">
                                     </div>
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Social
-                                                    strategy</a></h3>
+                                            <p class="project-one__sub-title">Mr Agboola (Ogun State Ministry of Education, Science and Technology) and the Director during the Admission Summit 2025.</p>
+                                        
                                         </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
-                            <!--Project One Single End-->
-                            <!--Project One Single Start-->
-                            <div class="item">
-                                <div class="project-one__single">
-                                    <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-2.jpg')}}" alt="">
-                                    </div>
-                                    <div class="project-one__content-box">
-                                        <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Brand strategy</a>
-                                            </h3>
-                                        </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Project One Single End-->
-                            <!--Project One Single Start-->
-                            <div class="item">
-                                <div class="project-one__single">
-                                    <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-3.jpg')}}" alt="">
-                                    </div>
-                                    <div class="project-one__content-box">
-                                        <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Digital
-                                                    marketing</a></h3>
-                                        </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Project One Single End-->
-                            <!--Project One Single Start-->
-                            <div class="item">
-                                <div class="project-one__single">
-                                    <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-1.jpg')}}" alt="">
-                                    </div>
-                                    <div class="project-one__content-box">
-                                        <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Social
-                                                    strategy</a></h3>
-                                        </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Project One Single End-->
-                            <!--Project One Single Start-->
-                            <div class="item">
-                                <div class="project-one__single">
-                                    <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-2.jpg')}}" alt="">
-                                    </div>
-                                    <div class="project-one__content-box">
-                                        <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Brand strategy</a>
-                                            </h3>
-                                        </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Project One Single End-->
-                            <!--Project One Single Start-->
-                            <div class="item">
-                                <div class="project-one__single">
-                                    <div class="project-one__img">
-                                        <img src="{{ asset('assets/assets/images/project/project-1-3.jpg')}}" alt="">
-                                    </div>
-                                    <div class="project-one__content-box">
-                                        <div class="project-one__content">
-                                            <p class="project-one__sub-title">Social marketing</p>
-                                            <h3 class="project-one__title"><a href="project-details.html')}}">Digital
-                                                    marketing</a></h3>
-                                        </div>
-                                        <div class="project-one__btn">
-                                            <a href="project-details.html')}}"><i class="icon-right-arrow-1"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--Project One Single End-->
+                          
                         </div>
                     </div>
                 </div>

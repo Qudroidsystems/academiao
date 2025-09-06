@@ -15,7 +15,7 @@
                     <div class="team-one__inner">
                         <div class="team-one__shape-1 float-bob-y"></div>
                         <div class="team-one__img">
-                            <img src="{{ asset('assets/assets/images/team/team-1-1.jpg')}}" alt="">
+                            <img src="{{ asset('assets/assets/images/team/1.jpg')}}" alt="">
                         </div>
                         <div class="team-one__content">
                             <div class="team-one__rating">
@@ -25,13 +25,13 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Jack Da Conaz</a></h3>
-                            <p class="team-one__sub-title">Business Consulting expert</p>
-                            <div class="team-one__social">
+                            <h3 class="team-one__name"><a href="#">Mrs Kofoworola Njoku </a></h3>
+                            <p class="team-one__sub-title">Vice Principal</p>
+                            {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
                     <div class="team-one__inner">
                         <div class="team-one__shape-1 float-bob-y"></div>
                         <div class="team-one__img">
-                            <img src="{{ asset('assets/assets/images/team/team-1-2.jpg')}}" alt="">
+                            <img src="{{ asset('assets/assets/images/team/2.jpg')}}" alt="">
                         </div>
                         <div class="team-one__content">
                             <div class="team-one__rating">
@@ -53,13 +53,13 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Chopa Kendalo</a></h3>
-                            <p class="team-one__sub-title">Business Consulting expert</p>
-                            <div class="team-one__social">
+                            <h3 class="team-one__name"><a href="team-details.html')}}">Mrs Oladejo Mojolajesu</a></h3>
+                            <p class="team-one__sub-title">Administrative Secretary</p>
+                            {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                     <div class="team-one__inner">
                         <div class="team-one__shape-1 float-bob-y"></div>
                         <div class="team-one__img">
-                            <img src="{{ asset('assets/assets/images/team/team-1-3.jpg')}}" alt="">
+                            <img src="{{ asset('assets/assets/images/team/3.jpg')}}" alt="">
                         </div>
                         <div class="team-one__content">
                             <div class="team-one__rating">
@@ -81,13 +81,13 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Goplin ka chu</a></h3>
-                            <p class="team-one__sub-title">Business Consulting expert</p>
-                            <div class="team-one__social">
+                            <h3 class="team-one__name"><a href="team-details.html')}}">Lawal Harafat</a></h3>
+                            <p class="team-one__sub-title">Student President</p>
+                            {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
