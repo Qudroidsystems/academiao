@@ -100,7 +100,7 @@
                 <div class="col-xl-12">
                     <div class="site-footer-two__bottom-inner">
                         <div class="site-footer-two__bottom-text">
-                            <p>Copyright© 2025 All Rights Reserved</p> <a href="www.qudroid.co">website and portal Developed by Qudroid </a>
+                            <p>Copyright© 2025 All Rights Reserved</p> <a href="www.qudroid.co">Website and Portal Developed by Qudroid </a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
 <div class="mobile-nav__wrapper">
 <div class="mobile-nav__overlay mobile-nav__toggler"></div>
 <!-- /.mobile-nav__overlay -->
-<div class="mobile-nav__content">
+{{-- <div class="mobile-nav__content">
     <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
     <div class="logo-box">
@@ -149,7 +149,7 @@
 
 
 
-</div>
+</div> --}}
 <!-- /.mobile-nav__content -->
 </div>
 <!-- /.mobile-nav__wrapper -->
