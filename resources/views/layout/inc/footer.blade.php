@@ -8,23 +8,22 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget-two__column footer-widget-two__about">
                         <div class="footer-widget-two__logo-box">
-                            <div class="footer-widget-two__logo">
+                            {{-- <div class="footer-widget-two__logo">
                                 <a href="#"><img src="{{ asset('assets/assets/images/resources/footer-logo.png')}}" alt=""></a>
-                            </div>
+                            </div> --}}
                         </div>
-                        <p class="footer-widget-two__text">Sounds good to you? We are always looking for digital
-                            makers and unique personalities.</p>
+                        <p class="footer-widget-two__text">Sounds good to you? We are always waiting for you to reach out to us.</p>
                         <div class="footer-widget-two__contact">
                             <div class="icon">
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="text">
-                                <a href="tel:+22122288">(+22) 12 22 88</a>
+                                <a href="tel:+22122288">+234 (0) 7087767178</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                {{-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                     <div class="footer-widget-two__quick-links">
                         <h4 class="footer-widget-two__title">Quick Links</h4>
                         <ul class="footer-widget-two__quick-links-list list-unstyled">
@@ -36,15 +35,14 @@
                             <li><a href="product-design.html')}}">Product Design</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                     <div class="footer-widget-two__get-in-touch">
                         <h4 class="footer-widget-two__title">Get In Touch</h4>
-                        <p class="footer-widget-two__get-in-touch-text">Office 8 Road 5 , north city Berlin,
-                            Germeny City</p>
+                        <p class="footer-widget-two__get-in-touch-text">13, Soyinka Street, Behind Fajol Hotel, Obantoko, Abeokuta, Ogun State.</p>
                         <div class="footer-widget-two__email-box">
-                            <a href="mailto:Support@gmail.com">Support@gmail.com</a>
-                            <a href="mailto:help@domain.com">help@domain.com</a>
+                            <a href="mailto:Support@gmail.com">help@academiaocollege.ng</a>
+                            <a href="mailto:help@domain.com">help@academiaocollege.ng</a>
                         </div>
                         <ul class="footer-widget-two__social-box list-unstyled">
                             <li>
@@ -102,7 +100,7 @@
                 <div class="col-xl-12">
                     <div class="site-footer-two__bottom-inner">
                         <div class="site-footer-two__bottom-text">
-                            <p>Copyright© 2025 All Rights Reserved</p> <a href="www.qudroid.co">Developed by Qudroid </a>
+                            <p>Copyright© 2025 All Rights Reserved</p> <a href="www.qudroid.co">website and portal Developed by Qudroid </a>
                         </div>
                     </div>
                 </div>
