@@ -4746,9 +4746,9 @@ ul {
 }
 
 .testimonial-one__text {
-  font-size: 10px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 48px;
+  line-height: 40px;
   color: var(--bcorz-black);
 }
 
