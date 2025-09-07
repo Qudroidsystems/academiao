@@ -373,6 +373,21 @@
                                     </div>
                                 </div>
                             </div>
+                              <!--Project One Single Start-->
+                            <div class="item">
+                                <div class="project-one__single">
+                                    <div class="project-one__img">
+                                        <img src="{{ asset('assets/assets/images/project/8.jpg')}}" alt="">
+                                    </div>
+                                    <div class="project-one__content-box">
+                                        <div class="project-one__content">
+                                            <p class="project-one__sub-title">Science Practicals for WAEC students.</p>
+                                        
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
                           
                         </div>
                     </div>
