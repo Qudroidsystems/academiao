@@ -247,9 +247,9 @@
                                 </p>
                                 <div class="consulting-one__bottom">
                                     <div class="consulting-one__Strategy">
-                                        <div class="icon">
+                                        {{-- <div class="icon">
                                             <span class="icon-chart-diagram-pie"></span>
-                                        </div>
+                                        </div> --}}
                                         <div class="text">
                                             <h3>Academic Consulting & Strategy</h3>
                                         </div>
