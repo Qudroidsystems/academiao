@@ -21,81 +21,42 @@
         </section>
         <!--Page Header End-->
 
-          <!--Services Three start-->
-            <section class="services-three">
+
+          <!--About Three Start-->
+            <section class="about-three">
                 <div class="container">
-                    <div class="section-title text-center">
-                        <span class="section-title__tagline">Our Schools</span>
-                        <div class="section-title-shape">
-                            <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
-                        </div>
-                        <h2 class="section-title__title">Academia O Group of Schools</h2>
-                    </div>
                     <div class="row">
-                        <!--services One single start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="services-one__single">
-                                <div class="services-one__count"></div>
-                                <div class="services-one__content">
-                                    <div class="services-one__title">
-                                        <h3><a href="#">Junior High  School</a></h3>
-                                    </div>
-                                    {{-- <div class="services-one__icon">
+                        <div class="col-xl-6">
+                            <div class="about-three__left">
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">ABOUT ACADEMIA O COLLEGE</span>
+                                    <h2 class="section-title__title">Shaping minds today for a brighter tomorrow</h2>
+                                </div>
+                                <p class="about-three__text-1">
+                                    At Academia O College, we believe education is more than acquiring knowledge — it is about nurturing character, inspiring innovation, and preparing future leaders. Our commitment is to provide quality learning experiences that empower students to excel academically and socially. 
+                                </p>
+                                <div class="about-three__creativity">
+                                    {{-- <div class="icon">
                                         <span class="icon-bulb-business-idea"></span>
                                     </div> --}}
-                                </div>
-                                <p class="services-one__text">Redefining the goal of education from the conventional, nurturing students of Year 7 to Year 9.</p>
-                                <div class="services-one__btn">
-                                    {{-- <a href="branding.html')}}" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a> --}}
-                                </div>
-                            </div>
-                        </div>
-                        <!--services One single End-->
-                        <!--services One single start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                            <div class="services-one__single">
-                                <div class="services-one__count"></div>
-                                <div class="services-one__content">
-                                    <div class="services-one__title">
-                                        <h3><a href="#">Senior High  School</a>
-                                        </h3>
+                                    <div class="text">
+                                        <h3>Innovatio et Excellentia</h3>
                                     </div>
-                                    {{-- <div class="services-one__icon">
-                                        <span class="icon-business-management-target"></span>
-                                    </div> --}}
                                 </div>
-                                <p class="services-one__text">Using technology and modern tools with consistent science practicals to prepare Year 10 to Year 12 students for the task ahead.</p>
-                                <div class="services-one__btn">
-                                    {{-- <a href="#" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a> --}}
+                                <p class="about-three__text-2">
+                                    With dedicated teachers, modern facilities, and a supportive community, Academia O College offers a balanced approach to education — blending academics, creativity, and personal development. We prepare our students not just for exams, but for life.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="about-three__right">
+                                <div class="about-three__img">
+                                    <img src="{{ asset('assets/assets/images/resources/logo.jpg')}}" alt="Academia O College Logo">
                                 </div>
                             </div>
                         </div>
-                        <!--services One single End-->
-                        <!--services One single start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="services-one__single">
-                                <div class="services-one__count"></div>
-                                <div class="services-one__content">
-                                    <div class="services-one__title">
-                                        <h3><a href="#">Prevarsity</a></h3>
-                                    </div>
-                                    {{-- <div class="services-one__icon">
-                                        <span class="icon-megaphone"></span>
-                                    </div> --}}
-                                </div>
-                                <p class="services-one__text">Preparing high school leavers for admission based examinations towards a brighter future in higher institution.</p>
-                                <div class="services-one__btn">
-                                    {{-- <a href="digital-solutions.html')}}" class="thm-btn services-three__btn">Read more<i
-                                            class="icon-right-arrow1"></i></a> --}}
-                                </div>
-                            </div>
-                        </div>
-                        <!--services One single End-->
                     </div>
                 </div>
             </section>
-            <!--Services One End-->
-
+            
 @endsection
