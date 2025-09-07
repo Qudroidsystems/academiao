@@ -3,11 +3,11 @@
   <section class="team-one">
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Our Best Expert</span>
+            <span class="section-title__tagline">Meet Our Leaders</span>
             <div class="section-title-shape">
                 <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
             </div>
-            <h2 class="section-title__title">Meet the team members</h2>
+            <h2 class="section-title__title">MEET OUR TEAM</h2>
         </div>
         <div class="row">
 
@@ -29,7 +29,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <h3 class="team-one__name"><a href="#">Mr Philip Oklu</a></h3>
-                            <p class="team-one__sub-title">Principal</p>
+                            <p class="team-one__sub-title">Director/Principal.</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
