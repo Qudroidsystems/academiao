@@ -180,7 +180,7 @@
                                         
                                     </li>
                                     <li class="dropdown">
-                                        <a href="{{ route('services') }}">Services</a>
+                                        <a href="{{ route('services') }}">Schools</a>
                                         {{-- <ul>
                                             <li><a href="services.html">Services</a></li>
                                             <li><a href="product-design.html">Product Design</a></li>
@@ -201,6 +201,9 @@
                                     </li> --}}
                                     <li>
                                         <a href="{{ route('about') }}">About Us</a>
+                                        <ul>
+                                            <li><a href="team.html">Mission & Vission</a></li>
+                                        </ul>
                                     </li>
                                     <li class="dropdown">
                                         <a href="{{ route('faq') }}">FAQ</a>

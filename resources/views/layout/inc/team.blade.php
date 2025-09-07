@@ -3,7 +3,7 @@
   <section class="team-one">
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Meet Our Leaders</span>
+            <span class="section-title__tagline">THE MANAGEMENT </span>
             <div class="section-title-shape">
                 <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
             </div>
