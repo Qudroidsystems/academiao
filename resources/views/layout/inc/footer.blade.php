@@ -120,10 +120,10 @@
 <div class="mobile-nav__content">
     <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-    <div class="logo-box">
+    {{-- <div class="logo-box">
         <a href="index.html')}}" aria-label="logo image"><img src="{{ asset('assets/assets/images/resources/footer-logo.png')}}"
                 width="143" alt="" /></a>
-    </div>
+    </div> --}}
     <!-- /.logo-box -->
     <div class="mobile-nav__container"></div>
     <!-- /.mobile-nav__container -->
