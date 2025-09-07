@@ -133,9 +133,9 @@
                                     <div class="services-one__title">
                                         <h3><a href="branding.html')}}">Junior High  School</a></h3>
                                     </div>
-                                    <div class="services-one__icon">
+                                    {{-- <div class="services-one__icon">
                                         <span class="icon-bulb-business-idea"></span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <p class="services-one__text">Redefining the goal of education from the conventional, nurturing students of Year 7 to Year 9.</p>
                                 <div class="services-one__btn">
@@ -174,9 +174,9 @@
                                     <div class="services-one__title">
                                         <h3><a href="#">Prevarsity</a></h3>
                                     </div>
-                                    <div class="services-one__icon">
+                                    {{-- <div class="services-one__icon">
                                         <span class="icon-megaphone"></span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <p class="services-one__text">Preparing high school leavers for admission based examinations towards a brighter future in higher institution.</p>
                                 <div class="services-one__btn">
@@ -205,9 +205,9 @@
                                     At Academia O College, we believe education is more than acquiring knowledge — it is about nurturing character, inspiring innovation, and preparing future leaders. Our commitment is to provide quality learning experiences that empower students to excel academically and socially. 
                                 </p>
                                 <div class="about-three__creativity">
-                                    <div class="icon">
+                                    {{-- <div class="icon">
                                         <span class="icon-bulb-business-idea"></span>
-                                    </div>
+                                    </div> --}}
                                     <div class="text">
                                         <h3>Innovatio et Excellentia</h3>
                                     </div>

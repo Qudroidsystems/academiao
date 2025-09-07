@@ -28,8 +28,8 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Mrs Oladejo Mojolajesu</a></h3>
-                            <p class="team-one__sub-title">Administrative Secretary</p>
+                            <h3 class="team-one__name"><a href="#">Mr Philip Oklu</a></h3>
+                            <p class="team-one__sub-title">Principal</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
@@ -86,7 +86,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Lawal Harafat</a></h3>
+                            <h3 class="team-one__name"><a href="#">Lawal Harafat</a></h3>
                             <p class="team-one__sub-title">Student President</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
