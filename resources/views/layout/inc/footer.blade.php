@@ -46,7 +46,7 @@
                         </div>
                         <ul class="footer-widget-two__social-box list-unstyled">
                             <li>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/academiaOfb"><i class="fab fa-facebook-f"></i></a>
                             </li>
                             <li>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
@@ -131,18 +131,17 @@
     <ul class="mobile-nav__contact list-unstyled">
         <li>
             <i class="fa fa-envelope"></i>
-            <a href="mailto:needhelp@packageName__.com">needhelp@bcorz.com</a>
+              <a href="mailto:Support@gmail.com">help@academiaocollege.ng</a>
         </li>
         <li>
             <i class="fa fa-phone-alt"></i>
-            <a href="tel:666-888-0000">666 888 0000</a>
+            <a href="tel:+22122288">+234 (0) 7087767178</a>
         </li>
     </ul><!-- /.mobile-nav__contact -->
     <div class="mobile-nav__top">
         <div class="mobile-nav__social">
-            <a href="#" class="fab fa-twitter"></a>
+            <a href="https://www.facebook.com/academiaOfb" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-facebook-square"></a>
-            <a href="#" class="fab fa-pinterest-p"></a>
             <a href="#" class="fab fa-instagram"></a>
         </div><!-- /.mobile-nav__social -->
     </div><!-- /.mobile-nav__top -->
