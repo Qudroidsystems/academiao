@@ -225,10 +225,10 @@
                                      <li class="dropdown">
                                         <a href="#">Tests</a>
                                         <ul>
-                                            <li><a href="https://iqtest.com/take-the-test/">IQ TEST </a></li>
-                                            <li><a href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">Classical Intelligence Test </a></li>
-                                             <li><a href="https://wayground.com">Quizzes</a></li>
-                                            <li><a href="https://myschool.ng/classroom/exam/custom">CBT Simulator</a></li>
+                                            <li><a target="_blank" href="https://iqtest.com/take-the-test/">IQ TEST </a></li>
+                                            <li><a target="_blank" href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">Classical Intelligence Test </a></li>
+                                             <li><a target="_blank" href="https://wayground.com">Quizzes</a></li>
+                                            <li><a target="_blank" href="https://myschool.ng/classroom/exam/custom">CBT Simulator</a></li>
                                         </ul>
                                     </li>
 
