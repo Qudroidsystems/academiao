@@ -222,6 +222,14 @@
                                             <li><a href="blog-details.html">Blog Details</a></li>
                                         </ul> --}}
                                     </li>
+                                     <li class="dropdown">
+                                        <a href="#">Tests</a>
+                                        <ul>
+                                            <li><a href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">IQ TEST </a></li>
+                                            <li><a href="https://myschool.ng/classroom/exam/jamb">JAMB CBT Simulator</a></li>
+                                        </ul>
+                                    </li>
+
                                     {{-- <li>
                                         <a href="{{ route('contact') }}">Contact</a>
                                     </li> --}}
