@@ -131,7 +131,7 @@
                                 <div class="services-one__count"></div>
                                 <div class="services-one__content">
                                     <div class="services-one__title">
-                                        <h3><a href="branding.html')}}">Junior High  School</a></h3>
+                                        <h3><a href="#">Junior High  School</a></h3>
                                     </div>
                                     {{-- <div class="services-one__icon">
                                         <span class="icon-bulb-business-idea"></span>
@@ -154,9 +154,9 @@
                                         <h3><a href="#">Senior High  School</a>
                                         </h3>
                                     </div>
-                                    <div class="services-one__icon">
+                                    {{-- <div class="services-one__icon">
                                         <span class="icon-business-management-target"></span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <p class="services-one__text">Using technology and modern tools with consistent science practicals to prepare Year 10 to Year 12 students for the task ahead.</p>
                                 <div class="services-one__btn">
@@ -250,9 +250,9 @@
                                         <div class="icon">
                                             <span class="icon-chart-diagram-pie"></span>
                                         </div>
-                                        {{-- <div class="text">
+                                        <div class="text">
                                             <h3>Academic Consulting & Strategy</h3>
-                                        </div> --}}
+                                        </div>
                                     </div>
                                     <div class="consulting-one__count-box">
                                         <div class="consulting-one__count">
