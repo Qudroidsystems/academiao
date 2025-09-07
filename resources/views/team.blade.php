@@ -24,7 +24,7 @@
         <section class="team-one">
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">Our Best Expert</span>
+                    <span class="section-title__tagline">Our Management Staff</span>
                     <div class="section-title-shape">
                         <img src="{{ asset('assets/assets/images/shapes/section-title-shape-1.png')}}" alt="">
                     </div>
