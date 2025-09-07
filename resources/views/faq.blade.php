@@ -20,7 +20,7 @@
         <!--FAQ Page Start-->
         <section class="faq-page">
             <div class="container">
-                <div class="faq-page__top">
+                {{-- <div class="faq-page__top">
                     <h3 class="faq-page__title">Find answers Our Asked Questions</h3>
                     <form class="faq-page__form">
                         <div class="faq-page__form-input-box">
@@ -28,7 +28,7 @@
                             <button type="submit"><i class="icon-search"></i></button>
                         </div>
                     </form>
-                </div>
+                </div> --}}
                 <div class="faq-page__bottom">
                     <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                         <div class="accrodion active">
