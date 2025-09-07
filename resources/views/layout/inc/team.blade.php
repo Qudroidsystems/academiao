@@ -1,3 +1,33 @@
+  
+   <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/4.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="team-details.html')}}">Mrs Oladejo Mojolajesu</a></h3>
+                            <p class="team-one__sub-title">Administrative Secretary</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
+  
   <!--Team One Start-->
   <section class="team-one">
     <div class="container">
@@ -37,34 +67,7 @@
                 </div>
             </div>
             <!--Team One Single End-->
-            <!--Team One Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                <div class="team-one__single">
-                    <div class="team-one__inner">
-                        <div class="team-one__shape-1 float-bob-y"></div>
-                        <div class="team-one__img">
-                            <img src="{{ asset('assets/assets/images/team/2.jpg')}}" alt="">
-                        </div>
-                        <div class="team-one__content">
-                            <div class="team-one__rating">
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                            </div>
-                            <h3 class="team-one__name"><a href="team-details.html')}}">Mrs Oladejo Mojolajesu</a></h3>
-                            <p class="team-one__sub-title">Administrative Secretary</p>
-                            {{-- <div class="team-one__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </div> --}}
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Team One Single End-->
+           
             <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="team-one__single">
