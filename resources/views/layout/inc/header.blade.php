@@ -225,7 +225,9 @@
                                      <li class="dropdown">
                                         <a href="#">Tests</a>
                                         <ul>
-                                            <li><a href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">IQ TEST </a></li>
+                                            <li><a href="https://iqtest.com/take-the-test/">IQ TEST </a></li>
+                                            <li><a href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">Classical Intelligence Test </a></li>
+                                             <li><a href="https://wayground.com">QUIZ</a></li>
                                             <li><a href="https://myschool.ng/classroom/exam/jamb">JAMB CBT Simulator</a></li>
                                         </ul>
                                     </li>
