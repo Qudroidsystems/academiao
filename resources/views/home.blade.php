@@ -291,7 +291,7 @@
                                                 <option value="3">Boarding School Enquiries</option>
                                             </select>
                                         </div>
-                                        <button type="submit" class="thm-btn consulting-one__btn">Request Consultation</button>
+                                        <button type="submit" class="thm-btn consulting-one__btn">Submit</button>
                                     </form>
                                 </div>
                             </div>
