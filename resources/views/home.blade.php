@@ -271,8 +271,8 @@
                             <div class="consulting-one__right">
                                 <div class="consulting-one__right-form-box wow slideInRight" data-wow-delay="100ms"
                                     data-wow-duration="2500ms">
-                                    <p class="consulting-one__form-sub-title">Get More Updates</p>
-                                    <h3 class="consulting-one__form-title">Book a Free Consultation</h3>
+                                    <p class="consulting-one__form-sub-title">Contact Us</p>
+                                    <h3 class="consulting-one__form-title">Reach Out To Us Today</h3>
                                     <form action="#" method="post" class="consulting-one__right-form">
                                         <div class="consulting-one__input-box">
                                             <input type="text" placeholder="Name" name="Name">
@@ -286,9 +286,9 @@
                                         <div class="consulting-one__input-box">
                                             <select class="selectpicker" aria-label="Default select example">
                                                 <option selected>Area of Interest</option>
-                                                <option value="1">Admission Guidance</option>
+                                                <option value="1">Admission Guidance/Enquiries</option>
                                                 <option value="2">Career Counselling</option>
-                                                <option value="3">Course Selection</option>
+                                                <option value="3">Boarding School Enquiries</option>
                                             </select>
                                         </div>
                                         <button type="submit" class="thm-btn consulting-one__btn">Request Consultation</button>

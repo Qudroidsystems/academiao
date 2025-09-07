@@ -71,7 +71,7 @@
 
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -111,7 +111,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
 
