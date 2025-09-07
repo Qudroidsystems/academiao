@@ -11,7 +11,7 @@
             <div class="page-header__shape-1"></div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Ours Schools</h2>
+                    <h2>Our Schools</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="{{ route('home') }}">Home</a></li>
                         <li class="active">Our Schools</li>
