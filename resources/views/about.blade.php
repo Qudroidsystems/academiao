@@ -11,10 +11,10 @@
             <div class="container">
                 <div class="page-header__inner">
                     <h2>About us</h2>
-                    <ul class="thm-breadcrumb list-unstyled">
+                    {{-- <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="{{ route('home') }}">Home</a></li>
                         <li class="active">About</li>
-                    </ul>
+                    </ul> --}}
                 </div>
             </div>
         </section>
