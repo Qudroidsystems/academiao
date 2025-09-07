@@ -38,7 +38,18 @@
                             }
                         }'>
 
-                         <div class="testimonial-one__client-info-box">
+                         <!--Testimonial One Single Start-->
+                            <div class="item">
+                                <div class="testimonial-one__single">
+                                    <div class="testimonial-one__client-img-box">
+                                        <div class="testimonial-one__client-img">
+                                            <img src="{{ asset('assets/assets/images/testimonial/t5.jpg') }}" alt="">
+                                        </div>
+                                        <div class="testimonial-one__icon">
+                                            <span class="icon-quote"></span>
+                                        </div>
+                                    </div>
+                                    <div class="testimonial-one__client-info-box">
                                         <p class="testimonial-one__text">“As an alumnus of Academia O, I can confidently say that my time there 
                                             was one of the most
                                              transformative experiences of my life. When I first joined,
@@ -77,6 +88,9 @@
                                             <p>Ohio State University, USA.</p>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                            <!--Testimonial One Single End-->
                             <!--Testimonial One Single Start-->
                             <div class="item">
                                 <div class="testimonial-one__single">
@@ -221,21 +235,7 @@
                             </div>
                             <!--Testimonial One Single End-->
 
-                            <!--Testimonial One Single Start-->
-                            <div class="item">
-                                <div class="testimonial-one__single">
-                                    <div class="testimonial-one__client-img-box">
-                                        <div class="testimonial-one__client-img">
-                                            <img src="{{ asset('assets/assets/images/testimonial/t5.jpg') }}" alt="">
-                                        </div>
-                                        <div class="testimonial-one__icon">
-                                            <span class="icon-quote"></span>
-                                        </div>
-                                    </div>
-                                   
-                                </div>
-                            </div>
-                            <!--Testimonial One Single End-->
+                           
                         </div>
                     </div>
                 </div>

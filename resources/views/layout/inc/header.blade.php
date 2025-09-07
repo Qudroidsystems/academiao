@@ -202,7 +202,7 @@
                                     <li>
                                         <a href="{{ route('about') }}">About Us</a>
                                         <ul>
-                                            <li><a href="team.html">Mission & Vission</a></li>
+                                            <li><a href="#">Mission & Vission</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
@@ -215,7 +215,7 @@
                                         </ul> --}}
                                     </li>
                                     <li class="dropdown">
-                                        <a href="{{ route('team') }}">Our Team</a>
+                                        <a href="{{ route('team') }}">Management Staff</a>
                                         {{-- <ul>
                                             <li><a href="blog.html">Blog</a></li>
                                             <li><a href="blog-list.html">Blog List</a></li>
