@@ -33,99 +33,82 @@
                     <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                         <div class="accrodion active">
                             <div class="accrodion-title">
-                                <h4>01 . Improve Performance and Efficiency</h4>
+                                <h4>01 . How do you keep students engaged?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p>Interactive lessons + tech tools = learning made fun! </p>
+                                </div><!-- /.inner -->
+                            </div>
+                        </div>
+
+                        <div class="accrodion">
+                            <div class="accrodion-title">
+                                <h4>02 . Do you only prepare students for exams?</h4>
+                            </div>
+                            <div class="accrodion-content">
+                                <div class="inner">
+                                    <p>We prepare them for life, not just exams!  </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>02 . What are your typical timelines?</h4>
+                                <h4>03 . What makes your school different?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p>Modern teaching, digital tools, small classes, big results!  </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>03 . What is the typical investment per client?</h4>
+                                <h4>04 . How do you track my child’s progress?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p> Real-time updates + parent feedback system!</p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>04 . How are you different from other brand & digital marketing agencies?</h4>
+                                <h4>05 . Do you teach beyond the curriculum?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks</p>
+                                    <p>Yes! Coding, tech,  leadership, and life skills are part of our DNA.  </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>05 . Do you offer flexible payment terms?</h4>
+                                <h4>06 . Is your school affordable?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p>Quality education that parents can afford. No hidden costs.  </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>06 . What should my digital marketing budget be?</h4>
+                                <h4>07 . Why should I bring my child to your school?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p>Because every child deserves modern education + moral values! </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>07 . When will I see results from paid search advertising?</h4>
+                                <h4>08 .  Do you use technology in classrooms?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-                                        veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                                        voluptatem quia voluptas sit aspernatur aut odit aut fugit All the Lorem Ipsum
-                                        generators on the Internet tend to repeat predefined chunks </p>
+                                    <p>Yes! Smart boards, e-learning, and digital tools for every learner. </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
