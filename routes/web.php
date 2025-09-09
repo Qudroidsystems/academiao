@@ -15,6 +15,7 @@ use App\Http\Controllers\ServicesController;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 Route::get('/team', [TeamController::class, 'index'])->name('team');
+Route::get('/philip', [TeamController::class, 'philip'])->name('philip');
 Route::get('/schools', [ServicesController::class, 'index'])->name('schools');
 Route::get('/faq', [FaqController::class, 'index'])->name('faq');
 

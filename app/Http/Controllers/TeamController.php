@@ -18,6 +18,16 @@ class TeamController extends Controller
     }
 
     /**
+     * Display a listing of the resource.
+     */
+    public function philip()
+    {
+        $pageTitle = 'Our Team';
+        return view('team-philip')->with('pageTitle',$pageTitle);
+        
+    }
+
+    /**
      * Show the form for creating a new resource.
      */
     public function create()
