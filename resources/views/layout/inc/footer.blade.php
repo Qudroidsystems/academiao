@@ -131,7 +131,11 @@
     <ul class="mobile-nav__contact list-unstyled">
         <li>
             <i class="fa fa-envelope"></i>
-              <a href="mailto:Support@gmail.com">help@academiaocollege.ng</a>
+              <a href="mailto:admission@academiaocollege.ng">admission@academiaocollege.ng</a>
+        </li>
+         <li>
+            <i class="fa fa-envelope"></i>
+              <a href="mailto:info@academiaocollege.ng">info@academiaocollege.ng</a>
         </li>
         <li>
             <i class="fa fa-phone-alt"></i>
