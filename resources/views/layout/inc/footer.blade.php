@@ -41,8 +41,9 @@
                         <h4 class="footer-widget-two__title">Get In Touch</h4>
                         <p class="footer-widget-two__get-in-touch-text">13, Soyinka Street, Behind Fajol Hotel, Obantoko, Abeokuta, Ogun State.</p>
                         <div class="footer-widget-two__email-box">
-                            <a href="mailto:Support@gmail.com">help@academiaocollege.ng</a>
-                            <a href="mailto:help@domain.com">help@academiaocollege.ng</a>
+                              <a href="mailto:admission@academiaocollege.ng">admission@academiaocollege.ng</a>
+                            <a href="mailto:info@academiaocollege.ng">info@academiaocollege.ng</a>
+        
                         </div>
                         <ul class="footer-widget-two__social-box list-unstyled">
                             <li>
