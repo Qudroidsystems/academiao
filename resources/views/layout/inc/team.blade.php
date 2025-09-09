@@ -57,7 +57,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="#">Mrs Kofoworola Njoku </a></h3>
+                            <h3 class="team-one__name"><a href="{{ route('kofoworola') }}">Mrs Kofoworola Njoku </a></h3>
                             <p class="team-one__sub-title">Vice Principal</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -86,7 +86,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="#">Mrs Grace Oklu </a></h3>
+                            <h3 class="team-one__name"><a href="{{ route('grace') }}">Mrs Grace Oklu </a></h3>
                             <p class="team-one__sub-title">Manager, Enterprise & Commerce.</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -131,3 +131,57 @@
     </div>
 </section>
 <!--Team One End-->
+
+
+     <!--Counter One Start-->
+        <section class="counter-one counter-three">
+             <!--Counter Two Start-->
+            <section class="counter-two">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <ul class="counter-one__points list-unstyled">
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-newspaper-news"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="1300">00</h3>
+                                            <span class="counter-one__letter">+</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">Prevarsity Alumni</p>
+                                </li>
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-flower-smile"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="22">00</h3>
+                                            <span class="counter-one__letter">+</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">College Students</p>
+                                </li>
+                                <li>
+                                    <div class="counter-one__points-box">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-rating"></span>
+                                        </div>
+                                        <div class="counter-one__count-box">
+                                            <h3 class="odometer" data-count="15">00</h3>
+                                            <span class="counter-one__letter">+</span>
+                                        </div>
+                                    </div>
+                                    <p class="counter-one__text">Teachers</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Counter Two End-->
+        </section>
+        <!--Counter One End-->

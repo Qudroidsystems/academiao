@@ -16,6 +16,8 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 Route::get('/team', [TeamController::class, 'index'])->name('team');
 Route::get('/philip', [TeamController::class, 'philip'])->name('philip');
+Route::get('/kofoworola', [TeamController::class, 'kofoworola'])->name('kofoworola');
+Route::get('/grace', [TeamController::class, 'grace'])->name('grace');
 Route::get('/schools', [ServicesController::class, 'index'])->name('schools');
 Route::get('/faq', [FaqController::class, 'index'])->name('faq');
 
