@@ -179,23 +179,23 @@
                                         <a href="{{ route('home') }}">Home </a>
                                         
                                     </li>
-                                    <li class="dropdown">
+                                    <li>
                                         <a href="{{ route('schools') }}">Our Schools</a>
                                        
                                     </li>
                                    
                                     <li>
-                                        <a href="{{ route('about') }}">About Us</a>
+                                        <a class="dropdown" href="{{ route('about') }}">About Us</a>
                                         <ul>
                                             <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
                                             <li><a href="{{ route('anthem') }}">School Anthem</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown">
+                                    <li >
                                         <a href="{{ route('faq') }}">FAQ</a>
                                        
                                     </li>
-                                    <li class="dropdown">
+                                    <li >
                                         <a href="{{ route('team') }}">Management Staff</a>
                                         
                                     </li>
