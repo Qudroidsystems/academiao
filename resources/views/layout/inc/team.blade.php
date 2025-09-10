@@ -28,7 +28,7 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="#">Mr Philip Oklu</a></h3>
+                            <h3 class="team-one__name"><a href="{{ route('philip') }}">Mr Philip Oklu</a></h3>
                             <p class="team-one__sub-title">Director/Principal.</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>

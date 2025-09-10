@@ -27,6 +27,27 @@ class TeamController extends Controller
         
     }
 
+     /**
+     * Display a listing of the resource.
+     */
+    public function kofoworola()
+    {
+        $pageTitle = 'Our Team';
+        return view('team-kofoworola')->with('pageTitle',$pageTitle);
+        
+    }
+
+
+     /**
+     * Display a listing of the resource.
+     */
+    public function grace()
+    {
+        $pageTitle = 'Our Team';
+        return view('team-grace')->with('pageTitle',$pageTitle);
+        
+    }
+
     /**
      * Show the form for creating a new resource.
      */
