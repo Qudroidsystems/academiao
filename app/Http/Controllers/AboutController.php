@@ -17,6 +17,29 @@ class AboutController extends Controller
         
     }
 
+     /**
+     * Display a listing of the resource.
+     */
+    public function vision()
+    {
+        $pageTitle = 'About Us';
+        return view('mission-vission')->with('pageTitle',$pageTitle);
+        
+    }
+
+
+
+     /**
+     * Display a listing of the resource.
+     */
+    public function anthem()
+    {
+        $pageTitle = 'About Us';
+        return view('anthem')->with('pageTitle',$pageTitle);
+        
+    }
+
+
     /**
      * Show the form for creating a new resource.
      */
