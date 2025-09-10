@@ -865,7 +865,7 @@ ul {
   left: -10000000px;
   right: 0;
   bottom: 0;
-  background-color: red;
+  background-color: var(--bcorz-base);
   z-index: -1;
 }
 
