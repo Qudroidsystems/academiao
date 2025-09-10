@@ -140,7 +140,7 @@
         </li>
         <li>
             <i class="fa fa-phone-alt"></i>
-            <a href="tel:+22122288">+2347087767178</a>
+            <a href="tel:+2347087767178">+234 (0) 7087767178</a>
         </li>
     </ul><!-- /.mobile-nav__contact -->
     <div class="mobile-nav__top">
