@@ -35,6 +35,10 @@
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                             </div> --}}
+                             <div class="services-two__btn-box">
+                                    <a href="{{ route('philip') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -64,6 +68,10 @@
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                             </div> --}}
+                             <div class="services-two__btn-box">
+                                    <a href="{{ route('kofoworola') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -93,6 +101,10 @@
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
                             </div> --}}
+                             <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div>
                         </div>
                     </div>
                 </div>
