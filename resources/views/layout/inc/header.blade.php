@@ -175,7 +175,7 @@
                             <div class="main-menu__main-menu-box-left">
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
-                                    <li class="dropdown current">
+                                    <li>
                                         <a href="{{ route('home') }}">Home </a>
                                         
                                     </li>
@@ -184,8 +184,8 @@
                                        
                                     </li>
                                    
-                                    <li>
-                                        <a class="dropdown" href="{{ route('about') }}">About Us</a>
+                                    <li class="dropdown">
+                                        <a  href="{{ route('about') }}">About Us</a>
                                         <ul>
                                             <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
                                             <li><a href="{{ route('anthem') }}">School Anthem</a></li>
