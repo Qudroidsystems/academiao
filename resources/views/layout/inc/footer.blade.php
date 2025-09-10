@@ -18,7 +18,7 @@
                                 <span class="icon-phone-call"></span>
                             </div>
                             <div class="text">
-                                <a href="tel:+22122288">+234 (0) 7087767178</a>
+                                <a href="tel:+2347087767178">+234 (0) 7087767178</a>
                             </div>
                         </div>
                     </div>
