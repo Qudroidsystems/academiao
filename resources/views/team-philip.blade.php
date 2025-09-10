@@ -46,7 +46,7 @@
                                             <a href="#"><span class="icon-phone-call"></span></a>
                                         </div>
                                         <div class="text">
-                                            <a href="tel:+880022127">(+88) 00 22 127</a>
+                                            <a href="tel:+880022127">+234 (0) 7087767178</a>
                                         </div>
                                     </div>
                                 </div>
