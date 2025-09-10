@@ -202,7 +202,8 @@
                                     <li>
                                         <a href="{{ route('about') }}">About Us</a>
                                         <ul>
-                                            <li><a href="#">Mission & Vission</a></li>
+                                            <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
+                                            <li><a href="{{ route('anthem') }}">School Anthem</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
