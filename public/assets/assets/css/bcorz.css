@@ -852,7 +852,7 @@ ul {
 
 .main-menu__logo {
   position: relative;
-  display: block;
+  /* display: block; */
   padding: 5px 0;
   padding-right: 4px;
   z-index: 1;
@@ -860,7 +860,7 @@ ul {
 
 .main-menu__logo:before {
   content: "";
-  position: absolute;
+  /* position: absolute; */
   top: 5px;
   left: -10000000px;
   right: 0;
