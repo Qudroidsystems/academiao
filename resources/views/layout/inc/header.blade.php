@@ -168,7 +168,7 @@
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
                             <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                                <a href="index.html"><img src="{{ asset('assets/assets/images/resources/logo.png') }}" alt=""></a>
                             </div>
                         </div>
                         <div class="main-menu__main-menu-box">
@@ -181,24 +181,9 @@
                                     </li>
                                     <li class="dropdown">
                                         <a href="{{ route('schools') }}">Our Schools</a>
-                                        {{-- <ul>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="product-design.html">Product Design</a></li>
-                                            <li><a href="digital-marketing.html">Digital Marketing</a></li>
-                                            <li><a href="product-development.html">Product Development</a></li>
-                                            <li><a href="branding.html">Branding</a></li>
-                                            <li><a href="digital-solutions.html">Digital Solutions</a></li>
-                                            <li><a href="user-research.html">User Research</a></li>
-                                        </ul> --}}
+                                       
                                     </li>
-                                    {{-- <li class="dropdown">
-                                        <a href="#">Projects</a>
-                                        <ul>
-                                            <li><a href="project-v-1.html">Project V-1</a></li>
-                                            <li><a href="project-v-2.html">Project V-2</a></li>
-                                            <li><a href="project-details.html">Project Details</a></li>
-                                        </ul>
-                                    </li> --}}
+                                   
                                     <li>
                                         <a href="{{ route('about') }}">About Us</a>
                                         <ul>
@@ -208,20 +193,11 @@
                                     </li>
                                     <li class="dropdown">
                                         <a href="{{ route('faq') }}">FAQ</a>
-                                        {{-- <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="team-details.html">Team Details</a></li>
-                                            <li><a href="faq.html">FAQs</a></li>
-                                            <li><a href="404.html">404 Error</a></li>
-                                        </ul> --}}
+                                       
                                     </li>
                                     <li class="dropdown">
                                         <a href="{{ route('team') }}">Management Staff</a>
-                                        {{-- <ul>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-list.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul> --}}
+                                        
                                     </li>
                                      <li class="dropdown">
                                         <a href="#">Tests</a>
@@ -233,9 +209,7 @@
                                         </ul>
                                     </li>
 
-                                    {{-- <li>
-                                        <a href="{{ route('contact') }}">Contact</a>
-                                    </li> --}}
+                                   
                                 </ul>
                             </div>
                             <div class="main-menu__main-menu-box-right">
