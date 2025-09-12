@@ -16,7 +16,18 @@ class ServicesController extends Controller
         return view('services')->with('pageTitle',$pageTitle);
         
     }
+    
+     /**
+     * Display a listing of the resource.
+     */
+    public function admission()
+    {
+        $pageTitle = 'Admssion Lists';
+        return view('admission')->with('pageTitle',$pageTitle);
+        
+    }
 
+    
     /**
      * Show the form for creating a new resource.
      */

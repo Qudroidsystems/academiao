@@ -196,7 +196,11 @@
                                        
                                     </li>
                                     <li >
-                                        <a href="{{ route('team') }}">Management Staff</a>
+                                        <a href="{{ route('team') }}">Staff</a>
+                                        
+                                    </li>
+                                    <li >
+                                        <a href="{{ route('admission') }}">Admissions</a>
                                         
                                     </li>
                                      <li class="dropdown">
