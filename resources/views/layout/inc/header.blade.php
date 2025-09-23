@@ -189,16 +189,16 @@
                                         <ul>
                                             <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
                                             <li><a href="{{ route('anthem') }}">School Anthem</a></li>
+                                             <li ><a href="{{ route('team') }}">Staff</a>
+                                        
+                                    </li>
                                         </ul>
                                     </li>
                                     <li >
                                         <a href="{{ route('faq') }}">FAQ</a>
                                        
                                     </li>
-                                    <li >
-                                        <a href="{{ route('team') }}">Staff</a>
-                                        
-                                    </li>
+                                   
                                     <li >
                                         <a href="{{ route('admission') }}">Admissions</a>
                                         
