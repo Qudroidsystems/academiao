@@ -203,6 +203,10 @@
                                         <a href="{{ route('admission') }}">Admissions</a>
                                         
                                     </li>
+                                    <li >
+                                        <a target="_blank" href="http://portal.academiaocollege.ng/">Portal</a>
+                                        
+                                    </li>
                                      <li class="dropdown">
                                         <a href="#">Tests</a>
                                         <ul>
