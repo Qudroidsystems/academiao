@@ -78,7 +78,7 @@
             </div>
             <!--Team One Single End-->
 
-              <!--Team One Single Start-->
+            <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                 <div class="team-one__single">
                     <div class="team-one__inner">
@@ -110,7 +110,179 @@
                 </div>
             </div>
             <!--Team One Single End-->
+
+
+             <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/9.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="#">Mr Macaulay Oluwasegun</a></h3>
+                            <p class="team-one__sub-title">Science Department</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                             {{-- <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
+
+
+              <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/8.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="#">Ms Okunrobo Loveth</a></h3>
+                            <p class="team-one__sub-title">Business/Humanities Department</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                             {{-- <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
+
+            <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/6.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="#">Mr Ajala Joseph </a></h3>
+                            <p class="team-one__sub-title">Humanities Department</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                             {{-- <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
            
+
+
+            <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/7.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="#">Ms Soremekun Taiwo</a></h3>
+                            <p class="team-one__sub-title">Science Department</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                             {{-- <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
+
+
+
+                    <!--Team One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="team-one__single">
+                    <div class="team-one__inner">
+                        <div class="team-one__shape-1 float-bob-y"></div>
+                        <div class="team-one__img">
+                            <img src="{{ asset('assets/assets/images/team/10.jpg')}}" alt="">
+                        </div>
+                        <div class="team-one__content">
+                            <div class="team-one__rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <h3 class="team-one__name"><a href="#">Mr Ekwesi Isreal</a></h3>
+                            <p class="team-one__sub-title">Science Department</p>
+                            {{-- <div class="team-one__social">
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </div> --}}
+                             {{-- <div class="services-two__btn-box">
+                                    <a href="{{ route('grace') }}" class="thm-btn">See Profile<i
+                                            class="icon-right-arrow1"></i></a>
+                                </div> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Team One Single End-->
+
+            
             <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="team-one__single">
