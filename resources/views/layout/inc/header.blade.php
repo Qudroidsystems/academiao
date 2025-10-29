@@ -180,9 +180,12 @@
                                         <a href="{{ route('home') }}">Home </a>
                                         
                                     </li>
-                                    <li>
-                                        <a href="{{ route('schools') }}">Our Schools</a>
-                                       
+                                    <li class="dropdown">
+                                       <a href="{{ route('schools') }}">Our Schools</a>
+                                        <ul>
+                                            <li><a href="{{ route('gallery') }}">school Gallery</a></li>
+                                    </li>
+                                        </ul>
                                     </li>
                                    
                                     <li class="dropdown">
