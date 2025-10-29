@@ -52,6 +52,7 @@
     <!-- template styles -->
     <link rel="stylesheet" href="{{ asset('assets/assets/css/bcorz.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/assets/css/bcorz-responsive.css') }}" />
+
 </head>
 
 <body class="custom-cursor">

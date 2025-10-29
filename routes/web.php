@@ -5,6 +5,7 @@ use App\Http\Controllers\FaqController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\TeamController;
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\GalleryController;
 use App\Http\Controllers\ServicesController;
 
 
@@ -23,4 +24,6 @@ Route::get('/grace', [TeamController::class, 'grace'])->name('grace');
 Route::get('/schools', [ServicesController::class, 'index'])->name('schools');
 Route::get('/admission', [ServicesController::class, 'admission'])->name('admission');
 Route::get('/faq', [FaqController::class, 'index'])->name('faq');
+Route::get('/gallery', [GalleryController::class, 'index'])->name('gallery.index');
+Route::get('/gallery/{id}', [GalleryController::class, 'show'])->name('gallery.show');
 
