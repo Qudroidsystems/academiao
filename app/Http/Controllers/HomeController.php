@@ -143,36 +143,36 @@ class HomeController extends Controller
             ],
             [
                 'id' => 19,
-                'thumbnail' => asset('assets/assets/images/gallery/19.jpg'),
-                'full' => asset('assets/assets/images/gallery/19.jpg'),
+                'thumbnail' => asset('assets/assets/images/gallery/19.jpeg'),
+                'full' => asset('assets/assets/images/gallery/19.jpeg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
             [
                 'id' => 20,
-                'thumbnail' => asset('assets/assets/images/gallery/20.jpg'),
-                'full' => asset('assets/assets/images/gallery/20.jpg'),
+                'thumbnail' => asset('assets/assets/images/gallery/20.jpeg'),
+                'full' => asset('assets/assets/images/gallery/20.jpeg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
             [
                 'id' => 21,
-                'thumbnail' => asset('assets/assets/images/gallery/21.jpg'),
-                'full' => asset('assets/assets/images/gallery/21.jpg'),
+                'thumbnail' => asset('assets/assets/images/gallery/21.jpeg'),
+                'full' => asset('assets/assets/images/gallery/21.jpeg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
             [
                 'id' => 22,
-                'thumbnail' => asset('assets/assets/images/gallery/22.jpg'),
-                'full' => asset('assets/assets/images/gallery/22.jpg'),
+                'thumbnail' => asset('assets/assets/images/gallery/22.jpeg'),
+                'full' => asset('assets/assets/images/gallery/22.jpeg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
              [
                 'id' => 23,
-                'thumbnail' => asset('assets/assets/images/gallery/23.jpg'),
-                'full' => asset('assets/assets/images/gallery/23.jpg'),
+                'thumbnail' => asset('assets/assets/images/gallery/23.jpeg'),
+                'full' => asset('assets/assets/images/gallery/23.jpeg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
