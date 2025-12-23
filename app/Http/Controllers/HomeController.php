@@ -33,7 +33,7 @@ class HomeController extends Controller
                 'id' => 3,
                 'thumbnail' => asset('assets/assets/images/gallery/3.jpg'),
                 'full' => asset('assets/assets/images/gallery/3-full.jpg'),
-                // 'title' => 'Campus Event 3',
+                'title' => '',
                 'description' => 'Cross sesctiion of students during ICT session'
             ],
             [
