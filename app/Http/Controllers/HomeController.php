@@ -99,26 +99,26 @@ class HomeController extends Controller
                 'title' => '',
                 'description' => 'Year 10 learners'
             ],
-             [
-                'id' => 13,
-                'thumbnail' => asset('assets/assets/images/gallery/13.jpg'),
-                'full' => asset('assets/assets/images/gallery/13-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
-            ],
-             [
-                'id' => 14,
-                'thumbnail' => asset('assets/assets/images/gallery/14.jpg'),
-                'full' => asset('assets/assets/images/gallery/14-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
-            ],
+            //  [
+            //     'id' => 13,
+            //     'thumbnail' => asset('assets/assets/images/gallery/13.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/13-full.jpg'),
+            //     'title' => 'Campus Event 4',
+            //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+            // ],
+            //  [
+            //     'id' => 14,
+            //     'thumbnail' => asset('assets/assets/images/gallery/14.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/14-full.jpg'),
+            //     'title' => 'Campus Event 4',
+            //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+            // ],
              [
                 'id' => 15,
                 'thumbnail' => asset('assets/assets/images/gallery/15.jpg'),
                 'full' => asset('assets/assets/images/gallery/15-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Happy students taking notes'
             ],
              [
                 'id' => 16,
