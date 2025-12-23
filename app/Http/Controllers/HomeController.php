@@ -34,7 +34,7 @@ class HomeController extends Controller
                 'thumbnail' => asset('assets/assets/images/gallery/3.jpg'),
                 'full' => asset('assets/assets/images/gallery/3.jpg'),
                 'title' => '',
-                'description' => 'Cross sesctiion of students during ICT session'
+                'description' => 'Cross section of students during ICT session'
             ],
             [
                 'id' => 4,
@@ -48,21 +48,21 @@ class HomeController extends Controller
                 'thumbnail' => asset('assets/assets/images/gallery/5.jpg'),
                 'full' => asset('assets/assets/images/gallery/5.jpg'),
                 'title' => '',
-                'description' => 'Our happy students.'
+                'description' => 'Happy students'
             ],
              [
                 'id' => 6,
                 'thumbnail' => asset('assets/assets/images/gallery/6.jpg'),
                 'full' => asset('assets/assets/images/gallery/6.jpg'),
                 'title' => '',
-                'description' => 'An on-going Data Processing classroom.'
+                'description' => 'An on-going Data Processing class'
             ],
              [
                 'id' => 7,
                 'thumbnail' => asset('assets/assets/images/gallery/7.jpg'),
                 'full' => asset('assets/assets/images/gallery/7.jpg'),
                 'title' => '',
-                'description' => 'The office of the director.'
+                'description' => 'The office of the director'
             ],
             //  [
             //     'id' => 8,
@@ -153,7 +153,7 @@ class HomeController extends Controller
                 'thumbnail' => asset('assets/assets/images/gallery/20.jpeg'),
                 'full' => asset('assets/assets/images/gallery/20.jpeg'),
                 'title' => '',
-                'description' => 'Junior Students'
+                'description' => 'Junior school students'
             ],
             [
                 'id' => 21,
