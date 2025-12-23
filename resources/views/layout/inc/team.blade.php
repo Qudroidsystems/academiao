@@ -289,7 +289,7 @@
                     <div class="team-one__inner">
                         <div class="team-one__shape-1 float-bob-y"></div>
                         <div class="team-one__img">
-                            <img src="{{ asset('assets/assets/images/team/3.jpg')}}" alt="">
+                            <img src="{{ asset('assets/assets/images/team/3.jpeg')}}" alt="">
                         </div>
                         <div class="team-one__content">
                             <div class="team-one__rating">
