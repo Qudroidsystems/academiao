@@ -15,26 +15,26 @@ class HomeController extends Controller
         $pageTitle = 'Home';
 
           $images = [
-            [
-                'id' => 1,
-                'thumbnail' => asset('assets/assets/images/gallery/1.jpg'),
-                'full' => asset('assets/assets/images/gallery/1-full.jpg'),
-                'title' => 'Campus Event 1',
-                'description' => 'Description for image 1. A vibrant campus gathering with students engaging in activities.'
-            ],
-            [
-                'id' => 2,
-                'thumbnail' => asset('assets/assets/images/gallery/2.jpg'),
-                'full' => asset('assets/assets/images/gallery/2-full.jpg'),
-                'title' => 'Campus Event 2',
-                'description' => 'Description for image 2. Exploring innovation in the science lab during open house.'
-            ],
+            // [
+            //     'id' => 1,
+            //     'thumbnail' => asset('assets/assets/images/gallery/1.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/1-full.jpg'),
+            //     'title' => 'Campus Event 1',
+            //     'description' => 'Description for image 1. A vibrant campus gathering with students engaging in activities.'
+            // ],
+            // [
+            //     'id' => 2,
+            //     'thumbnail' => asset('assets/assets/images/gallery/2.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/2-full.jpg'),
+            //     'title' => 'Campus Event 2',
+            //     'description' => 'Description for image 2. Exploring innovation in the science lab during open house.'
+            // ],
             [
                 'id' => 3,
                 'thumbnail' => asset('assets/assets/images/gallery/3.jpg'),
                 'full' => asset('assets/assets/images/gallery/3-full.jpg'),
-                'title' => 'Campus Event 3',
-                'description' => 'Description for image 3. Sports day highlights with team spirit and cheers.'
+                // 'title' => 'Campus Event 3',
+                'description' => 'Cross sesctiion of students during ICT session'
             ],
             [
                 'id' => 4,
