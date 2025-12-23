@@ -120,26 +120,26 @@ class HomeController extends Controller
                 'title' => '',
                 'description' => 'Happy students taking notes'
             ],
-             [
-                'id' => 16,
-                'thumbnail' => asset('assets/assets/images/gallery/16.jpg'),
-                'full' => asset('assets/assets/images/gallery/16-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
-            ],
-             [
-                'id' => 17,
-                'thumbnail' => asset('assets/assets/images/gallery/17.jpg'),
-                'full' => asset('assets/assets/images/gallery/17-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
-            ],
+            //  [
+            //     'id' => 16,
+            //     'thumbnail' => asset('assets/assets/images/gallery/16.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/16-full.jpg'),
+            //     'title' => 'Campus Event 4',
+            //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+            // ],
+            //  [
+            //     'id' => 17,
+            //     'thumbnail' => asset('assets/assets/images/gallery/17.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/17-full.jpg'),
+            //     'title' => 'Campus Event 4',
+            //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+            // ],
              [
                 'id' => 18,
                 'thumbnail' => asset('assets/assets/images/gallery/18.jpg'),
                 'full' => asset('assets/assets/images/gallery/18-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Assembly time'
             ],
             
             
