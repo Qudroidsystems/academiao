@@ -299,8 +299,8 @@
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                             </div>
-                            <h3 class="team-one__name"><a href="#">Lawal Harafat</a></h3>
-                            <p class="team-one__sub-title">Student President</p>
+                            <h3 class="team-one__name"><a href="#">Ms Salami Lydia</a></h3>
+                            <p class="team-one__sub-title">Science Department</p>
                             {{-- <div class="team-one__social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
