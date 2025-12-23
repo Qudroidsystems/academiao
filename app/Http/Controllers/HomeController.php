@@ -137,7 +137,42 @@ class HomeController extends Controller
              [
                 'id' => 18,
                 'thumbnail' => asset('assets/assets/images/gallery/18.jpg'),
-                'full' => asset('assets/assets/images/gallery/18-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/18.jpg'),
+                'title' => '',
+                'description' => 'Assembly time'
+            ],
+            [
+                'id' => 19,
+                'thumbnail' => asset('assets/assets/images/gallery/19.jpg'),
+                'full' => asset('assets/assets/images/gallery/19.jpg'),
+                'title' => '',
+                'description' => 'Assembly time'
+            ],
+            [
+                'id' => 20,
+                'thumbnail' => asset('assets/assets/images/gallery/20.jpg'),
+                'full' => asset('assets/assets/images/gallery/20.jpg'),
+                'title' => '',
+                'description' => 'Assembly time'
+            ],
+            [
+                'id' => 21,
+                'thumbnail' => asset('assets/assets/images/gallery/21.jpg'),
+                'full' => asset('assets/assets/images/gallery/21.jpg'),
+                'title' => '',
+                'description' => 'Assembly time'
+            ],
+            [
+                'id' => 22,
+                'thumbnail' => asset('assets/assets/images/gallery/22.jpg'),
+                'full' => asset('assets/assets/images/gallery/22.jpg'),
+                'title' => '',
+                'description' => 'Assembly time'
+            ],
+             [
+                'id' => 23,
+                'thumbnail' => asset('assets/assets/images/gallery/23.jpg'),
+                'full' => asset('assets/assets/images/gallery/23.jpg'),
                 'title' => '',
                 'description' => 'Assembly time'
             ],
