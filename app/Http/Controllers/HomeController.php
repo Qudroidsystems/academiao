@@ -160,21 +160,21 @@ class HomeController extends Controller
                 'thumbnail' => asset('assets/assets/images/gallery/21.jpeg'),
                 'full' => asset('assets/assets/images/gallery/21.jpeg'),
                 'title' => '',
-                'description' => 'Assembly time'
+                'description' => '2025/2026 student executives'
             ],
             [
                 'id' => 22,
                 'thumbnail' => asset('assets/assets/images/gallery/22.jpeg'),
                 'full' => asset('assets/assets/images/gallery/22.jpeg'),
                 'title' => '',
-                'description' => 'Assembly time'
+                'description' => 'End of the year party'
             ],
              [
                 'id' => 23,
                 'thumbnail' => asset('assets/assets/images/gallery/23.jpeg'),
                 'full' => asset('assets/assets/images/gallery/23.jpeg'),
                 'title' => '',
-                'description' => 'Assembly time'
+                'description' => 'winners of first term extra-curricular competition finals  '
             ],
             
             
