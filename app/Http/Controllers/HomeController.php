@@ -40,64 +40,64 @@ class HomeController extends Controller
                 'id' => 4,
                 'thumbnail' => asset('assets/assets/images/gallery/4.jpg'),
                 'full' => asset('assets/assets/images/gallery/4-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Year 12 students during CBT exercise'
             ],
              [
                 'id' => 5,
                 'thumbnail' => asset('assets/assets/images/gallery/5.jpg'),
                 'full' => asset('assets/assets/images/gallery/5-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Our happy students.'
             ],
              [
                 'id' => 6,
                 'thumbnail' => asset('assets/assets/images/gallery/6.jpg'),
                 'full' => asset('assets/assets/images/gallery/6-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'An on-going Data Processing classroom.'
             ],
              [
                 'id' => 7,
                 'thumbnail' => asset('assets/assets/images/gallery/7.jpg'),
                 'full' => asset('assets/assets/images/gallery/7-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'The office of the director.'
             ],
-             [
-                'id' => 8,
-                'thumbnail' => asset('assets/assets/images/gallery/8.jpg'),
-                'full' => asset('assets/assets/images/gallery/8-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
-            ],
+            //  [
+            //     'id' => 8,
+            //     'thumbnail' => asset('assets/assets/images/gallery/8.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/8-full.jpg'),
+            //     'title' => 'Campus Event 4',
+            //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+            // ],
              [
                 'id' =>9,
                 'thumbnail' => asset('assets/assets/images/gallery/9.jpg'),
                 'full' => asset('assets/assets/images/gallery/9-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Cross section of attentive students.'
             ],
              [
                 'id' => 10,
                 'thumbnail' => asset('assets/assets/images/gallery/10.jpg'),
                 'full' => asset('assets/assets/images/gallery/10-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'An on-going mathematics class with our year 10 students.'
             ],
              [
                 'id' => 11,
                 'thumbnail' => asset('assets/assets/images/gallery/11.jpg'),
                 'full' => asset('assets/assets/images/gallery/11-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'an on-going Nigerian language class at junior school.'
             ],
              [
                 'id' => 12,
                 'thumbnail' => asset('assets/assets/images/gallery/12.jpg'),
                 'full' => asset('assets/assets/images/gallery/12-full.jpg'),
-                'title' => 'Campus Event 4',
-                'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
+                'title' => '',
+                'description' => 'Year 10 learners'
             ],
              [
                 'id' => 13,
