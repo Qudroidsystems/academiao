@@ -146,14 +146,14 @@ class HomeController extends Controller
                 'thumbnail' => asset('assets/assets/images/gallery/19.jpeg'),
                 'full' => asset('assets/assets/images/gallery/19.jpeg'),
                 'title' => '',
-                'description' => 'Assembly time'
+                'description' => 'First term PTA meeting'
             ],
             [
                 'id' => 20,
                 'thumbnail' => asset('assets/assets/images/gallery/20.jpeg'),
                 'full' => asset('assets/assets/images/gallery/20.jpeg'),
                 'title' => '',
-                'description' => 'Assembly time'
+                'description' => 'Junior Students'
             ],
             [
                 'id' => 21,
