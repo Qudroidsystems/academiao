@@ -18,119 +18,119 @@ class HomeController extends Controller
             // [
             //     'id' => 1,
             //     'thumbnail' => asset('assets/assets/images/gallery/1.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/1-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/1.jpg'),
             //     'title' => 'Campus Event 1',
             //     'description' => 'Description for image 1. A vibrant campus gathering with students engaging in activities.'
             // ],
             // [
             //     'id' => 2,
             //     'thumbnail' => asset('assets/assets/images/gallery/2.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/2-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/2.jpg'),
             //     'title' => 'Campus Event 2',
             //     'description' => 'Description for image 2. Exploring innovation in the science lab during open house.'
             // ],
             [
                 'id' => 3,
                 'thumbnail' => asset('assets/assets/images/gallery/3.jpg'),
-                'full' => asset('assets/assets/images/gallery/3-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/3.jpg'),
                 'title' => '',
                 'description' => 'Cross sesctiion of students during ICT session'
             ],
             [
                 'id' => 4,
                 'thumbnail' => asset('assets/assets/images/gallery/4.jpg'),
-                'full' => asset('assets/assets/images/gallery/4-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/4.jpg'),
                 'title' => '',
                 'description' => 'Year 12 students during CBT exercise'
             ],
              [
                 'id' => 5,
                 'thumbnail' => asset('assets/assets/images/gallery/5.jpg'),
-                'full' => asset('assets/assets/images/gallery/5-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/5.jpg'),
                 'title' => '',
                 'description' => 'Our happy students.'
             ],
              [
                 'id' => 6,
                 'thumbnail' => asset('assets/assets/images/gallery/6.jpg'),
-                'full' => asset('assets/assets/images/gallery/6-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/6.jpg'),
                 'title' => '',
                 'description' => 'An on-going Data Processing classroom.'
             ],
              [
                 'id' => 7,
                 'thumbnail' => asset('assets/assets/images/gallery/7.jpg'),
-                'full' => asset('assets/assets/images/gallery/7-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/7.jpg'),
                 'title' => '',
                 'description' => 'The office of the director.'
             ],
             //  [
             //     'id' => 8,
             //     'thumbnail' => asset('assets/assets/images/gallery/8.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/8-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/8.jpg'),
             //     'title' => 'Campus Event 4',
             //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
             // ],
              [
                 'id' =>9,
                 'thumbnail' => asset('assets/assets/images/gallery/9.jpg'),
-                'full' => asset('assets/assets/images/gallery/9-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/9.jpg'),
                 'title' => '',
-                'description' => 'Cross section of attentive students.'
+                'description' => 'Cross section of attentive students'
             ],
              [
                 'id' => 10,
                 'thumbnail' => asset('assets/assets/images/gallery/10.jpg'),
-                'full' => asset('assets/assets/images/gallery/10-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/10.jpg'),
                 'title' => '',
-                'description' => 'An on-going mathematics class with our year 10 students.'
+                'description' => 'An on-going mathematics class with our year 10 students'
             ],
              [
                 'id' => 11,
                 'thumbnail' => asset('assets/assets/images/gallery/11.jpg'),
-                'full' => asset('assets/assets/images/gallery/11-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/11.jpg'),
                 'title' => '',
-                'description' => 'an on-going Nigerian language class at junior school.'
+                'description' => 'an on-going Nigerian language class at junior school'
             ],
              [
                 'id' => 12,
                 'thumbnail' => asset('assets/assets/images/gallery/12.jpg'),
-                'full' => asset('assets/assets/images/gallery/12-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/12.jpg'),
                 'title' => '',
                 'description' => 'Year 10 learners'
             ],
             //  [
             //     'id' => 13,
             //     'thumbnail' => asset('assets/assets/images/gallery/13.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/13-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/13.jpg'),
             //     'title' => 'Campus Event 4',
             //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
             // ],
             //  [
             //     'id' => 14,
             //     'thumbnail' => asset('assets/assets/images/gallery/14.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/14-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/14.jpg'),
             //     'title' => 'Campus Event 4',
             //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
             // ],
              [
                 'id' => 15,
                 'thumbnail' => asset('assets/assets/images/gallery/15.jpg'),
-                'full' => asset('assets/assets/images/gallery/15-full.jpg'),
+                'full' => asset('assets/assets/images/gallery/15.jpg'),
                 'title' => '',
                 'description' => 'Happy students taking notes'
             ],
             //  [
             //     'id' => 16,
             //     'thumbnail' => asset('assets/assets/images/gallery/16.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/16-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/16.jpg'),
             //     'title' => 'Campus Event 4',
             //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
             // ],
             //  [
             //     'id' => 17,
             //     'thumbnail' => asset('assets/assets/images/gallery/17.jpg'),
-            //     'full' => asset('assets/assets/images/gallery/17-full.jpg'),
+            //     'full' => asset('assets/assets/images/gallery/17.jpg'),
             //     'title' => 'Campus Event 4',
             //     'description' => 'Description for image 4. Cultural festival showcasing diversity and traditions.'
             // ],
