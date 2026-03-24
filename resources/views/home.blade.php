@@ -17,22 +17,22 @@
                     "delay": 5000
                     }}'>
                     <div class="swiper-wrapper">
-    
+
                         <div class="swiper-slide">
                             <div class="image-layer-three"
                                 style="background-image: url({{ asset('assets/assets/images/backgrounds/home.jpg')}});"></div>
                             <!-- /.image-layer -->
-    
+
                             <div class="main-slider-three__shape-1"></div>
                             <div class="main-slider-three__shape-2"></div>
-    
+
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="main-slider-three__content">
                                             <h2 class="main-slider-three__title">Welcome to Academia O College<br> </h2>
                                             <p class="main-slider-three__text">where innovation meets excellence
-                                               
+
                                             </p>
                                             {{-- <div class="main-slider-three__btn-box">
                                                 <a href="about.html')}}"
@@ -44,15 +44,15 @@
                                 </div>
                             </div>
                         </div>
-    
+
                         <div class="swiper-slide">
                             <div class="image-layer-three"
                                 style="background-image: url({{ asset('assets/assets/images/backgrounds/home.jpg')}});"></div>
                             <!-- /.image-layer -->
-    
+
                             <div class="main-slider-three__shape-1"></div>
                             <div class="main-slider-three__shape-2"></div>
-    
+
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xl-12">
@@ -69,15 +69,15 @@
                                 </div>
                             </div>
                         </div>
-    
+
                         {{-- <div class="swiper-slide">
                             <div class="image-layer-three"
                                 style="background-image: url({{ asset('assets/assets/images/backgrounds/bg1.jpg')}});"></div>
                             <!-- /.image-layer -->
-    
+
                             <div class="main-slider-three__shape-1"></div>
                             <div class="main-slider-three__shape-2"></div>
-    
+
                             <div class="container">
                                 <div class="row">
                                     <div class="col-xl-12">
@@ -97,9 +97,9 @@
                             </div>
                         </div>
      --}}
-    
+
                     </div>
-    
+
                     <!-- If we need navigation buttons -->
                     <div class="main-slider-three__nav">
                         <div class="swiper-button-prev" id="main-slider__swiper-button-next">
@@ -109,11 +109,11 @@
                             <i class="icon-left-arrow-1"></i>
                         </div>
                     </div>
-    
+
                 </div>
             </section>
             <!--Main Slider End-->
-    
+
             <!--Services Three start-->
             <section class="services-three">
                 <div class="container">
@@ -190,7 +190,7 @@
                 </div>
             </section>
             <!--Services One End-->
-    
+
             <!--About Three Start-->
             <section class="about-three">
                 <div class="container">
@@ -202,7 +202,7 @@
                                     <h2 class="section-title__title">Shaping minds today for a brighter tomorrow</h2>
                                 </div>
                                 <p class="about-three__text-1">
-                                    At Academia O College, we believe education is more than acquiring knowledge — it is about nurturing character, inspiring innovation, and preparing future leaders. Our commitment is to provide quality learning experiences that empower students to excel academically and socially. 
+                                    At Academia O College, we believe education is more than acquiring knowledge — it is about nurturing character, inspiring innovation, and preparing future leaders. Our commitment is to provide quality learning experiences that empower students to excel academically and socially.
                                 </p>
                                 <div class="about-three__creativity">
                                     {{-- <div class="icon">
@@ -227,9 +227,9 @@
                     </div>
                 </div>
             </section>
-            
+
             <!--About Three End-->
-    
+
                 <!--Gallery Start-->
             <section class="gallery">
                 <div class="container">
@@ -239,20 +239,20 @@
                                 <div class="gallery-item">
                                     <div class="gallery-item__image position-relative overflow-hidden">
                                         <img src="{{ $img['thumbnail'] }}" alt="{{ $img['title'] }}" class="img-fluid w-100" style="transition: transform 0.3s ease; cursor: pointer;">
-                                        <div class="gallery-item__overlay position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-end p-2 p-md-3 bg-dark bg-opacity-0" 
+                                        <div class="gallery-item__overlay position-absolute top-0 start-0 w-100 h-100 d-flex flex-column justify-content-end p-2 p-md-3 bg-dark bg-opacity-0"
                                             style="transition: all 0.3s ease; opacity: 0;">
                                             <div class="position-relative z-2 w-100">
                                                 <h3 class="text-white mb-1 mb-md-1 fw-bold" style="font-size: 1.1rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ $img['title'] }}</h3>
                                                 <p class="text-white-50 small mb-2 mb-md-3 d-none d-md-block" style="line-height: 1.3; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">{{ $img['description'] }}</p>
                                                 <p class="text-white-50 small mb-2 mb-md-3 d-md-none" style="line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ Str::limit($img['description'], 40) }}</p>
                                             </div>
-                                            <a href="javascript:void(0);" class="gallery-item__link position-absolute end-0 bottom-0 m-2 m-md-3 text-white gallery-trigger" 
+                                            <a href="javascript:void(0);" class="gallery-item__link position-absolute end-0 bottom-0 m-2 m-md-3 text-white gallery-trigger"
                                             data-index="{{ $loop->index }}"
                                             data-src="{{ $img['full'] }}" data-title="{{ $img['title'] }}" data-desc="{{ $img['description'] }}"
                                             style="z-index: 3; transition: all 0.3s ease;">
                                                 <i class="fa fa-search-plus fa-lg fa-md-2x"></i>
                                             </a>
-                                            <div class="position-absolute top-0 start-0 w-100 h-100 bg-dark bg-opacity-75" 
+                                            <div class="position-absolute top-0 start-0 w-100 h-100 bg-dark bg-opacity-75"
                                                 style="transition: opacity 0.3s ease; opacity: 0; z-index: 1;"></div>
                                         </div>
                                     </div>
@@ -308,8 +308,8 @@
                             <div class="consulting-one__left">
                                 <h3 class="consulting-one__title">Guiding Students. Building Futures.</h3>
                                 <p class="consulting-one__text">
-                                    At Academia O College, we believe that every student deserves the right guidance to reach their full potential. 
-                                    Our academic consultation services help parents and students make informed decisions about courses, career paths, 
+                                    At Academia O College, we believe that every student deserves the right guidance to reach their full potential.
+                                    Our academic consultation services help parents and students make informed decisions about courses, career paths,
                                     and personal development. With a student-first approach, we nurture talents and prepare our learners to excel in a global world.
                                 </p>
                                 <div class="consulting-one__bottom">
@@ -366,11 +366,11 @@
                     </div>
                 </div>
             </section>
-            
+
             <!--Consulting Two End-->
-    
+
             @include('layout.inc.whychooseus')
-    
+
             <!--Project One start-->
             <section class="project-three">
                 <div class="container">
@@ -417,14 +417,14 @@
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
                                             <p class="project-one__sub-title">Cultural day celebration organized by UTME students.</p>
-                                           
+
                                         </div>
-                                       
+
                                     </div>
                                 </div>
                             </div>
                             <!--Project One Single End-->
-                           
+
                             <!--Project One Single Start-->
                             <div class="item">
                                 <div class="project-one__single">
@@ -434,9 +434,9 @@
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
                                             <p class="project-one__sub-title">Mr Agboola (Ogun State Ministry of Education, Science and Technology) and the Director during the Admission Summit 2025.</p>
-                                        
+
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -449,26 +449,26 @@
                                     <div class="project-one__content-box">
                                         <div class="project-one__content">
                                             <p class="project-one__sub-title">Science Practicals for WAEC students.</p>
-                                        
+
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                             </div>
-                          
+
                         </div>
                     </div>
                 </div>
             </section>
             <!--Project Three End-->
-    
+
            @include('layout.inc.counters')
-    
+
            @include('layout.inc.testimonials')
-    
+
            @include('layout.inc.team')
 
-             @push('scripts')
+
     <script>
         $(document).ready(function() {
             var galleryImages = @json($images);
@@ -560,7 +560,7 @@
             );
         });
     </script>
-    @endpush
+   
 
-    
+
 @endsection
