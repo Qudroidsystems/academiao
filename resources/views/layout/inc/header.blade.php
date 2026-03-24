@@ -72,7 +72,7 @@
 
 
     <!-- Start sidebar widget content -->
-    {{-- <div class="xs-sidebar-group info-group info-sidebar">
+    <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -112,7 +112,7 @@
                 </div>
             </div>
         </div>
-    </div> --}}
+    </div>
     <!-- End sidebar widget content -->
 
 
@@ -178,7 +178,7 @@
                                 <ul class="main-menu__list">
                                     <li>
                                         <a href="{{ route('home') }}">Home </a>
-                                        
+
                                     </li>
                                     <li class="dropdown">
                                        <a href="{{ route('schools') }}">Our Schools</a>
@@ -187,29 +187,29 @@
                                     </li>
                                         </ul>
                                     </li>
-                                   
+
                                     <li class="dropdown">
                                         <a  href="{{ route('about') }}">About Us</a>
                                         <ul>
                                             <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
                                             <li><a href="{{ route('anthem') }}">School Anthem</a></li>
                                              <li ><a href="{{ route('team') }}">Staff</a>
-                                        
+
                                     </li>
                                         </ul>
                                     </li>
                                     <li >
                                         <a href="{{ route('faq') }}">FAQ</a>
-                                       
+
                                     </li>
-                                   
+
                                     <li >
                                         <a href="{{ route('admission') }}">Admissions</a>
-                                        
+
                                     </li>
                                     <li >
                                         <a target="_blank" href="http://portal.academiaocollege.ng/">Portal</a>
-                                        
+
                                     </li>
                                      <li class="dropdown">
                                         <a href="#">Tests</a>
@@ -221,7 +221,7 @@
                                         </ul>
                                     </li>
 
-                                   
+
                                 </ul>
                             </div>
                             <div class="main-menu__main-menu-box-right">
