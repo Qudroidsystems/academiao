@@ -468,7 +468,7 @@
 
            @include('layout.inc.team')
 
-
+             @push('scripts')
     <script>
         $(document).ready(function() {
             var galleryImages = @json($images);
@@ -560,7 +560,7 @@
             );
         });
     </script>
-
+    @endpush
 
 
 @endsection
