@@ -206,9 +206,6 @@
     <!-- template js -->
     <script src="{{ asset('assets/assets/js/bcorz.js') }}"></script>
 
-
-<!-- template js -->
-<script src="{{ asset('assets/assets/js/bcorz.js')}}"></script>
 </body>
 
 </html>
