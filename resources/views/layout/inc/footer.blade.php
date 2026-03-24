@@ -211,6 +211,4 @@
 <script src="{{ asset('assets/assets/js/bcorz.js')}}"></script>
 </body>
 
-
-<!-- Mirrored from themazine.com/mr/bcorz-html/index3.html')}} by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Nov 2023 22:22:33 GMT -->
 </html>
