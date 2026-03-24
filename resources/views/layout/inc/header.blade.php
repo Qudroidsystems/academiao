@@ -72,7 +72,7 @@
 
 
     <!-- Start sidebar widget content -->
-    <div class="xs-sidebar-group info-group info-sidebar">
+    {{-- <div class="xs-sidebar-group info-group info-sidebar">
         <div class="xs-overlay xs-bg-black"></div>
         <div class="xs-sidebar-widget">
             <div class="sidebar-widget-container">
@@ -112,7 +112,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End sidebar widget content -->
 
 
@@ -164,77 +164,64 @@
                     </div>
                 </div>
             </div>
-              <nav class="main-menu">
+            <nav class="main-menu">
                 <div class="main-menu__wrapper">
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
-                            <div class="main-menu__logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
-                            </div>
+                            {{-- <div class="main-menu__logo"> --}}
+                                <a href="{{ route('home') }}"><img src="{{ asset('assets/assets/images/resources/banner.jpg') }}" alt=""></a>
+                            {{-- </div> --}}
                         </div>
                         <div class="main-menu__main-menu-box">
                             <div class="main-menu__main-menu-box-left">
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
-                                    <li class="dropdown current">
-                                        <a href="index.html">Home </a>
-                                        <ul>
-                                            <li><a href="index.html">Home One</a></li>
-                                            <li><a href="index2.html">Home Two</a></li>
-                                            <li><a href="index3.html">Home Three</a></li>
-                                            <li class="dropdown">
-                                                <a href="#">Header Styles</a>
-                                                <ul>
-                                                    <li><a href="index.html">Header One</a></li>
-                                                    <li><a href="index2.html">Header Two</a></li>
-                                                    <li><a href="index3.html">Header Three</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#">Services</a>
-                                        <ul>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="product-design.html">Product Design</a></li>
-                                            <li><a href="digital-marketing.html">Digital Marketing</a></li>
-                                            <li><a href="product-development.html">Product Development</a></li>
-                                            <li><a href="branding.html">Branding</a></li>
-                                            <li><a href="digital-solutions.html">Digital Solutions</a></li>
-                                            <li><a href="user-research.html">User Research</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#">Projects</a>
-                                        <ul>
-                                            <li><a href="project-v-1.html">Project V-1</a></li>
-                                            <li><a href="project-v-2.html">Project V-2</a></li>
-                                            <li><a href="project-details.html">Project Details</a></li>
-                                        </ul>
-                                    </li>
                                     <li>
-                                        <a href="about.html">About</a>
+                                        <a href="{{ route('home') }}">Home </a>
+
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Page</a>
+                                       <a href="{{ route('schools') }}">Our Schools</a>
                                         <ul>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="team-details.html">Team Details</a></li>
-                                            <li><a href="faq.html">FAQs</a></li>
-                                            <li><a href="404.html">404 Error</a></li>
+                                            <li><a href="{{ route('gallery') }}">school Gallery</a></li>
+                                    </li>
                                         </ul>
                                     </li>
+
                                     <li class="dropdown">
-                                        <a href="#">Blog</a>
+                                        <a  href="{{ route('about') }}">About Us</a>
                                         <ul>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-list.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                            <li><a href="{{ route('vision') }}">Mission & Vission</a></li>
+                                            <li><a href="{{ route('anthem') }}">School Anthem</a></li>
+                                             <li ><a href="{{ route('team') }}">Staff</a>
+
+                                    </li>
                                         </ul>
                                     </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
+                                    <li >
+                                        <a href="{{ route('faq') }}">FAQ</a>
+
                                     </li>
+
+                                    <li >
+                                        <a href="{{ route('admission') }}">Admissions</a>
+
+                                    </li>
+                                    <li >
+                                        <a target="_blank" href="http://portal.academiaocollege.ng/">Portal</a>
+
+                                    </li>
+                                     <li class="dropdown">
+                                        <a href="#">Tests</a>
+                                        <ul>
+                                            <li><a target="_blank" href="https://iqtest.com/take-the-test/">IQ TEST </a></li>
+                                            <li><a target="_blank" href="https://www.123test.com/iq-test/?d=1&prd=NDg=&p=MQ==&dsc=MTg5OQ==">Classical Intelligence Test </a></li>
+                                             <li><a target="_blank" href="https://wayground.com">Quizzes</a></li>
+                                            <li><a target="_blank" href="https://myschool.ng/classroom/exam/custom">CBT Simulator</a></li>
+                                        </ul>
+                                    </li>
+
+
                                 </ul>
                             </div>
                             <div class="main-menu__main-menu-box-right">
@@ -245,11 +232,11 @@
                                         </div>
                                         <div class="main-menu__call-content">
                                             <p>Make a call</p>
-                                            <h4><a href="tel:0611104044">(06) 11 10 40 44</a></h4>
+                                            <h4><a href="tel:+2347087767178">+2347087767178</a></h4>
                                         </div>
                                     </div>
                                     <div class="main-menu__btn-box">
-                                        <a href="contact.html" class="main-menu__btn">Lets MMMMMTalk</a>
+                                        <a href="tel:+2347087767178" class="main-menu__btn">Lets Talk</a>
                                     </div>
                                 </div>
                             </div>
@@ -273,4 +260,3 @@
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
         </div><!-- /.stricky-header -->
-
