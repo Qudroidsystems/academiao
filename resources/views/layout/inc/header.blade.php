@@ -168,9 +168,9 @@
                 <div class="main-menu__wrapper">
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
-                            <div class="main-menu__logo">
+                            {{-- <div class="main-menu__logo"> --}}
                                 <a href="{{ route('home') }}"><img src="{{ asset('assets/assets/images/resources/banner.jpg') }}" alt=""></a>
-                            </div>
+                            {{-- </div> --}}
                         </div>
                         <div class="main-menu__main-menu-box">
                             <div class="main-menu__main-menu-box-left">
