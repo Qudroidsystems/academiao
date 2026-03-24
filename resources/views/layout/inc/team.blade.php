@@ -11,7 +11,7 @@
         </div>
         <div class="row">
 
-              
+
    <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="team-one__single">
@@ -44,7 +44,7 @@
                 </div>
             </div>
             <!--Team One Single End-->
-  
+
             <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                 <div class="team-one__single">
@@ -211,7 +211,7 @@
                 </div>
             </div>
             <!--Team One Single End-->
-           
+
 
 
             <!--Team One Single Start-->
@@ -282,7 +282,7 @@
             </div>
             <!--Team One Single End-->
 
-            
+
             <!--Team One Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="team-one__single">
@@ -343,7 +343,7 @@
                                             <span class="icon-flower-smile"></span>
                                         </div>
                                         <div class="counter-one__count-box">
-                                            <h3 class="odometer" data-count="22">00</h3>
+                                            <h3 class="odometer" data-count="34">00</h3>
                                             <span class="counter-one__letter">+</span>
                                         </div>
                                     </div>
@@ -355,7 +355,7 @@
                                             <span class="icon-rating"></span>
                                         </div>
                                         <div class="counter-one__count-box">
-                                            <h3 class="odometer" data-count="15">00</h3>
+                                            <h3 class="odometer" data-count="34">00</h3>
                                             <span class="counter-one__letter">+</span>
                                         </div>
                                     </div>
