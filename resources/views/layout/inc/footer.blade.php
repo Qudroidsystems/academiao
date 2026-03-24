@@ -43,7 +43,7 @@
                         <div class="footer-widget-two__email-box">
                               <a href="mailto:admission@academiaocollege.ng">admission@academiaocollege.ng</a>
                             <a href="mailto:info@academiaocollege.ng">info@academiaocollege.ng</a>
-        
+
                         </div>
                         <ul class="footer-widget-two__social-box list-unstyled">
                             <li>
@@ -180,7 +180,7 @@
 
 <!-- Scripts -->
     <script src="{{ asset('assets/assets/vendors/jquery/jquery-3.6.0.min.js') }}"></script>
-    @stack('scripts')  <!-- Custom JS (e.g., gallery modal) loads here, after jQuery -->
+    {{-- @stack('scripts')  <!-- Custom JS (e.g., gallery modal) loads here, after jQuery --> --}}
     <script src="{{ asset('assets/assets/vendors/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
     <script src="{{ asset('assets/assets/vendors/jarallax/jarallax.min.js') }}"></script>
     <script src="{{ asset('assets/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js') }}"></script>
