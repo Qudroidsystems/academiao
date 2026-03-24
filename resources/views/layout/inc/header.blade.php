@@ -164,16 +164,15 @@
                     </div>
                 </div>
             </div>
-            <nav class="main-menu">
+              <nav class="main-menu">
                 <div class="main-menu__wrapper">
                     <div class="main-menu__wrapper-inner">
                         <div class="main-menu__left">
-                            {{-- <div class="main-menu__logo"> --}}
-                                <a href="{{ route('home') }}"><img src="{{ asset('assets/assets/images/resources/banner.jpg') }}" alt=""></a>
-                            {{-- </div> --}}
+                            <div class="main-menu__logo">
+                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                            </div>
                         </div>
-
-                          <div class="main-menu__main-menu-box">
+                        <div class="main-menu__main-menu-box">
                             <div class="main-menu__main-menu-box-left">
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
@@ -266,7 +265,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </nav>
